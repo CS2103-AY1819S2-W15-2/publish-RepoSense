@@ -1,0 +1,51 @@
+{
+  "repoSenseVersion": "3fd1f5fa8c",
+  "reportGeneratedTime": "Fri Jan 17 10:51:37 2020 UTC",
+  "repos": [
+    {
+      "location": {
+        "location": "https://github.com/AY1920S1-CS2103-F09-1/main.git",
+        "repoName": "main",
+        "organization": "AY1920S1-CS2103-F09-1"
+      },
+      "branch": "master",
+      "displayName": "AY1920S1-CS2103-F09-1/main[master]",
+      "outputFolderName": "AY1920S1-CS2103-F09-1_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/AY1920S1-CS2103-F09-2/main.git",
+        "repoName": "main",
+        "organization": "AY1920S1-CS2103-F09-2"
+      },
+      "branch": "master",
+      "displayName": "AY1920S1-CS2103-F09-2/main[master]",
+      "outputFolderName": "AY1920S1-CS2103-F09-2_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/AY1920S1-CS2103-F09-3/main.git",
+        "repoName": "main",
+        "organization": "AY1920S1-CS2103-F09-3"
+      },
+      "branch": "master",
+      "displayName": "AY1920S1-CS2103-F09-3/main[master]",
+      "outputFolderName": "AY1920S1-CS2103-F09-3_main_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/AY1920S1-CS2103-F09-4/main.git",
+        "repoName": "main",
+        "organization": "AY1920S1-CS2103-F09-4"
+      },
+      "branch": "master",
+      "displayName": "AY1920S1-CS2103-F09-4/main[master]",
+      "outputFolderName": "AY1920S1-CS2103-F09-4_main_master"
+    }
+  ],
+  "errorList": [],
+  "sinceDate": "2019-10-01",
+  "untilDate": "2019-10-31",
+  "isSinceDateProvided": true,
+  "isUntilDateProvided": true
+}
