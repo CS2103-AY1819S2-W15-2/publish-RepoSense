@@ -1,0 +1,37 @@
+{
+  "authorDailyContributionsMap": {
+    "olivercheok20": [],
+    "chowyiyin": [],
+    "larrylawl": [],
+    "chaitanyabaranwal": [],
+    "ybchen97": []
+  },
+  "authorFinalContributionMap": {
+    "olivercheok20": 0,
+    "chowyiyin": 0,
+    "larrylawl": 0,
+    "chaitanyabaranwal": 0,
+    "ybchen97": 0
+  },
+  "authorFileTypeContributionMap": {
+    "olivercheok20": {},
+    "chowyiyin": {},
+    "larrylawl": {},
+    "chaitanyabaranwal": {},
+    "ybchen97": {}
+  },
+  "authorContributionVariance": {
+    "olivercheok20": 0.0,
+    "chowyiyin": 0.0,
+    "larrylawl": 0.0,
+    "chaitanyabaranwal": 0.0,
+    "ybchen97": 0.0
+  },
+  "authorDisplayNameMap": {
+    "olivercheok20": "CS2103-F09-4 OLIVE ... CHEOK",
+    "chowyiyin": "CS2103-F09-4 CHOW  ... I YIN",
+    "larrylawl": "CS2103-F09-4 LAW A ... LARRY",
+    "chaitanyabaranwal": "CS2103-F09-4 CHAIT ... ANWAL",
+    "ybchen97": "CS2103-F09-4 CHEN  ... UANBO"
+  }
+}

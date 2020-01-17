@@ -1,0 +1,37 @@
+{
+  "authorDailyContributionsMap": {
+    "ChrisKheng": [],
+    "mrchensheng21": [],
+    "mirozo": [],
+    "dcshzj": [],
+    "KendrickAng": []
+  },
+  "authorFinalContributionMap": {
+    "ChrisKheng": 0,
+    "mrchensheng21": 0,
+    "mirozo": 0,
+    "dcshzj": 0,
+    "KendrickAng": 0
+  },
+  "authorFileTypeContributionMap": {
+    "ChrisKheng": {},
+    "mrchensheng21": {},
+    "mirozo": {},
+    "dcshzj": {},
+    "KendrickAng": {}
+  },
+  "authorContributionVariance": {
+    "ChrisKheng": 0.0,
+    "mrchensheng21": 0.0,
+    "mirozo": 0.0,
+    "dcshzj": 0.0,
+    "KendrickAng": 0.0
+  },
+  "authorDisplayNameMap": {
+    "ChrisKheng": "CS2103-F09-1 KHENG ...  DONG",
+    "mrchensheng21": "CS2103-F09-1 KWAN  ... SHENG",
+    "mirozo": "CS2103-F09-1 GOH R ... I ZHI",
+    "dcshzj": "CS2103-F09-1 HSU Z ... G JUN",
+    "KendrickAng": "CS2103-F09-1 ANG W ... DRICK"
+  }
+}

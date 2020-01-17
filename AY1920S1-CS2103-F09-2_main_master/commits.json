@@ -1,0 +1,42 @@
+{
+  "authorDailyContributionsMap": {
+    "nattanyz": [],
+    "AHaliq": [],
+    "PhireHandy": [],
+    "shawnpunchew11": [],
+    "timothyleong97": [],
+    "huiminlim": []
+  },
+  "authorFinalContributionMap": {
+    "nattanyz": 0,
+    "AHaliq": 0,
+    "PhireHandy": 0,
+    "shawnpunchew11": 0,
+    "timothyleong97": 0,
+    "huiminlim": 0
+  },
+  "authorFileTypeContributionMap": {
+    "nattanyz": {},
+    "AHaliq": {},
+    "PhireHandy": {},
+    "shawnpunchew11": {},
+    "timothyleong97": {},
+    "huiminlim": {}
+  },
+  "authorContributionVariance": {
+    "nattanyz": 0.0,
+    "AHaliq": 0.0,
+    "PhireHandy": 0.0,
+    "shawnpunchew11": 0.0,
+    "timothyleong97": 0.0,
+    "huiminlim": 0.0
+  },
+  "authorDisplayNameMap": {
+    "nattanyz": "CS2103-F09-2 TAN Y ... TALIE",
+    "AHaliq": "CS2103-F09-2 ABDUL ... ATIFF",
+    "PhireHandy": "CS2103-F09-2 MUHAM ... ILANI",
+    "shawnpunchew11": "CS2103-F09-2 SHAWN ...  CHEW",
+    "timothyleong97": "CS2103-F09-2 LEONG ... MOTHY",
+    "huiminlim": "CS2103-F09-2 LIM H ... I MIN"
+  }
+}
