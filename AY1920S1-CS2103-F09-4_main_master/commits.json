@@ -448,9 +448,457 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 508,
+        "deletions": 94,
+        "date": "2019-11-05",
+        "commitResults": [
+          {
+            "hash": "3dbb05ffed3d7750e8cd1611ed3a70b15b4ab0a9",
+            "messageTitle": "Fix console messages",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 32
+          },
+          {
+            "hash": "7bed6552f1fccdc8ec39cd4546e7eadf6a1c7ecc",
+            "messageTitle": "Add tests for EligiblePeople",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "22132a2b4d245b3be95427c6609e0f02e944c41c",
+            "messageTitle": "Add tests for EligiblePoliciesCommand",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "68335231edc5850b525bf1697465e57ed6653db7",
+            "messageTitle": "Fix incorrect usage messages",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "a347b8a4d082203da0857f780b8d05b52279082d",
+            "messageTitle": "Fix message usage error for editpolicy",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "84263ac6b1b6c580078b669bcaefd548a6e392e8",
+            "messageTitle": "Fix console messages",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 32
+          },
+          {
+            "hash": "64db9eba1d5d149e47ff271bde44a4969d125f64",
+            "messageTitle": "Add tests for EligiblePeople",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "4828330086c940c89a67e0a71cc2519175bf63db",
+            "messageTitle": "Add tests for EligiblePoliciesCommand",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "8f520be369744b0fd53bac3cd5978367e7caf0ec",
+            "messageTitle": "Fix incorrect usage messages",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "90cb41038fba9c136a0544d1b63d8074ac118d2a",
+            "messageTitle": "Fix message usage error for editpolicy",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 245,
+        "deletions": 151,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "61ece0b2e2ffa6e286926a6e573259a376bb202e",
+            "messageTitle": "Prepare TypicalAddressBook for demonstration",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 41
+          },
+          {
+            "hash": "2b66f82c5459c8e4dd7e7acf30258dc0e607b476",
+            "messageTitle": "Update typicalPersonsAddressBook.json",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f1a4af632314d621ff51c2fa5f2017ad31e21366",
+            "messageTitle": "Fix partial keyword policy name search",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6a94a5a979878b81ccf64dc8548984990e911355",
+            "messageTitle": "Add tutorial to User Guide",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "cb4a1e433a617f3b8fa4b2050d8ac3119305a625",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4b194c257b38d3977883af56ad8f5c09dd427188",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "f741ee006866fcdee2ed1dddc6c4f53cba21550e",
+            "messageTitle": "Change for Oliver\u0027s demonstration",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 46
+          },
+          {
+            "hash": "16b8d7d775960fd66b2f846423ec925c2a51d373",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "c47bb69121b7751d39f3e03e07ec77fa4dc52f2c",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "69a99ca365745cddc3a571a573a463beea9ceec3",
+            "messageTitle": "Fix partial keyword policy name search",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "70e0829f61644e99eb76e5888b1c4913d07a609f",
+            "messageTitle": "Add tutorial to User Guide",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "43c67050e66f202834940d25ca0372663114d007",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d3e4478ff4077db4f9fb6b2e96ddf1b5d3bf41d9",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "8b7d53be6de007fbdbdbaa0ff2031aaa5c91b98f",
+            "messageTitle": "Change for Oliver\u0027s demonstration",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 46
+          },
+          {
+            "hash": "f34dd3654c7c0ececb8fea01dbec0601bbac8717",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "eed68570e96b456b5c8a9ddd01aff1cb92cf355a",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "da44a03db8639736a4ab3b13a00f7a6271706f7c",
+            "messageTitle": "Fix listbin",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 412,
+        "deletions": 82,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "eaec15226376227138b383228f5d0eb4848edf47",
+            "messageTitle": "Fix bug in issue #217",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "1df109f486ee5522726ec522872dd153c72edc41",
+            "messageTitle": "Fix bug in issue #227",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "0bb52a78e34ef94d428944b48891e50e8946bfcc",
+            "messageTitle": "Update Command Summary in User Guide",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 3
+          },
+          {
+            "hash": "48b64f02c8ff99e0fa0fbf5dedaaa66434dea3ea",
+            "messageTitle": "Minor code refactoring",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 10
+          },
+          {
+            "hash": "d936fa4a4dad35d0f34b8ce6b7b5a2028d3a3d8d",
+            "messageTitle": "Update Developer Guide",
+            "messageBody": "",
+            "insertions": 139,
+            "deletions": 0
+          },
+          {
+            "hash": "552e8b102bb17d2d3fe105ecaff8bbfbe2265356",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 7
+          },
+          {
+            "hash": "2591a1fbbe8333c945f74b499f9dc80fa8fa22db",
+            "messageTitle": "Add support for partial name search",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1d789cdc3d7d5587142eebad8f8faad1169f04a4",
+            "messageTitle": "Add PPP",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 28
+          },
+          {
+            "hash": "20ae2ee29b2863308fc54e6ab350d50e1fdb1f89",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "ac1849ee9f03bc745dfc07f3932e39b10b3d16c3",
+            "messageTitle": "Fix Travis",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f80954a418365fef4f60f75ddd993a4726092c84",
+            "messageTitle": "Format PPP",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "80759bc4668fb3f3dd179a893a66df41ec4ff794",
+            "messageTitle": "Abstract partial keyword search to StringUtil function",
+            "messageBody": "",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "f957f240fa444d25adb33b05d99dd8dab5ad1f91",
+            "messageTitle": "Fix expanded person/policy changing with changing list",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 3
+          },
+          {
+            "hash": "3f3a6f9071cfe3923946b19fe7f4b7a0058e5c97",
+            "messageTitle": "Fix right panel bug with expandperson/expandpolicy",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 1
+          },
+          {
+            "hash": "57567ef77d9a2001393ad3402b772249e2ea4fd6",
+            "messageTitle": "Fix another right panel bug with expandperson/expandpolicy",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "f083a4f8254b937e80b4d2ff678f8642a8b18643",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "536ad5f24e07c23045370a1663535bd6629a157d",
+            "messageTitle": "Add handling for deleting expanded person/policy",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 6
+          },
+          {
+            "hash": "f8f934742cac8b564fd40c9b7b4d1e9bd928a5da",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "b80f0a4718cab312edcd6577f50081d916e62fde",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "99aa1a07b16577b09de67fe7114fcc22a60da7bb",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 7,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "577157d9d832b2f5c62abec1c359e89983a061da",
+            "messageTitle": "Update DG with Manual Testing (eligibility)",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "160ab86942dc3e955dd2c1891d3d81bc89bd9183",
+            "messageTitle": "Update with Manual Testing",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 5
+          }
+        ]
       }
     ],
     "chowyiyin": [
+      {
+        "insertions": 411,
+        "deletions": 59,
+        "date": "2019-09-22",
+        "commitResults": [
+          {
+            "hash": "463fb1af96444b70171f80d16055ab5be1fb3d24",
+            "messageTitle": "Update contact us page",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b755d8bc2ec5c1ea943f11a1d1eb3749d57a908a",
+            "messageTitle": "Update input validation user stories in Developer\u0027s Guide",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 1
+          },
+          {
+            "hash": "34e28013e4d6f1a4b9abb5b484e3bc8792d0994f",
+            "messageTitle": "Update input validation in user guide",
+            "messageBody": "",
+            "insertions": 120,
+            "deletions": 2
+          },
+          {
+            "hash": "389a2cce539ce5bace2cb3d28c6d597001060c0c",
+            "messageTitle": "Add basic features to user guide",
+            "messageBody": "",
+            "insertions": 270,
+            "deletions": 54
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 37,
+        "date": "2019-09-23",
+        "commitResults": [
+          {
+            "hash": "3b6f4863aa26d0ae0d148029cf4b3dfee1fd7bfa",
+            "messageTitle": "Add command summary and inserted success message",
+            "messageBody": "",
+            "insertions": 55,
+            "deletions": 18
+          },
+          {
+            "hash": "84ffbc2897380a92c6a3981a0d4a9a0f10245782",
+            "messageTitle": "Remove extra bar that caused formatting error",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4d7bc1d57a1e2b1617b764aedc92a4dfc4a0265f",
+            "messageTitle": "Remove new user stories",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 0,
+        "date": "2019-09-26",
+        "commitResults": [
+          {
+            "hash": "c999adfacf11abb6d07169e1ab212d5d0b69d502",
+            "messageTitle": "Add use case for assigning policy to person",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 0
+          }
+        ]
+      },
       {
         "insertions": 1592,
         "deletions": 70,
@@ -1948,9 +2396,765 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 375,
+        "deletions": 101,
+        "date": "2019-11-04",
+        "commitResults": [
+          {
+            "hash": "c5e2ae2561b5aea8744a5b1857a6e2c3738523b3",
+            "messageTitle": "Add PolicyNameTest",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "d8cf8f5cb79dfdc0402e4a296a999280f442ed6c",
+            "messageTitle": "Add validation for start age and end age range",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "b7db78ee8e8187e95d8e2c423c654c2529401fd4",
+            "messageTitle": "Add validation for coverage",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "74e8638aa205e71173ec6b2659c07ac2baee55e1",
+            "messageTitle": "Add gender field to merging person command",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "c057f662a0b027e0be7971761f653e0b8157ea2c",
+            "messageTitle": "Add PPP",
+            "messageBody": "",
+            "insertions": 31,
+            "deletions": 48
+          },
+          {
+            "hash": "4aeb00e0da3d2f4e170ab60e6436167624603f3c",
+            "messageTitle": "Add tests for policy fields",
+            "messageBody": "",
+            "insertions": 208,
+            "deletions": 5
+          },
+          {
+            "hash": "485047049d2bb39e024f550e85abf883df0ae5d2",
+            "messageTitle": "Display criteria in different colour tag",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "154d68b55eed7b6734c566d835eb845c136ea4a5",
+            "messageTitle": "Edit startAge and endAge to reject ages more than 120",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0d768f799270970f75ede111f8e3d5441510885e",
+            "messageTitle": "Change header to Insurelytics",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "7318813f33e13583783146a1330304700c79ef1a",
+            "messageTitle": "Add asserts to merge commands",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "98d7e45b928c88f9037d456d62d937510ec8de92",
+            "messageTitle": "Edit coverage validation",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "f628b4cd4e7fa0e702c2e56b05cb11df5895d810",
+            "messageTitle": "Add 2.0 feature to userguide",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 473,
+        "deletions": 258,
+        "date": "2019-11-05",
+        "commitResults": [
+          {
+            "hash": "73abcfac7be56c677407348e3e67a9319cf88887",
+            "messageTitle": "Add 2.0 feature to user guide",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "d21be61438137a7ade2e82d8cf37c93f5f95ec2f",
+            "messageTitle": "Edit PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cdfe303e8800569bef9243066d92cf2db0eb79aa",
+            "messageTitle": "Update documentation for SuggestionSwitchCommand",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "75b76cde85a2220a899242f9e15e02ebee0c2ef2",
+            "messageTitle": "Update date of birth message",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "f2c7855ac0d554b3c5224532678e0ae03602e223",
+            "messageTitle": "Fix coverage message",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "ad50ec5a57375eaa6707a4766ef4d296e76c877e",
+            "messageTitle": "Add PolicyNameTest",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "45e03f0b23751e75e021a8478aaa1626db7d7eee",
+            "messageTitle": "Add validation for start age and end age range",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "ee55659f55b5f997bec5d4ad145cd829ae1d4579",
+            "messageTitle": "Add validation for coverage",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "a55828ae8847f6009feedccc540d43ea6bae7217",
+            "messageTitle": "Add gender field to merging person command",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "d4c6f890f971acbb3df6ececda70c25052471d25",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 162
+          },
+          {
+            "hash": "f0be4bcc7e393ce1973eced9b966029ed92443fd",
+            "messageTitle": "Add tests for policy fields",
+            "messageBody": "",
+            "insertions": 208,
+            "deletions": 5
+          },
+          {
+            "hash": "3dc39573f128f387d6db362fa453faa55d861e69",
+            "messageTitle": "Display criteria in different colour tag",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "d6f57bca187411e1e89ab3e6cddad5143348abd1",
+            "messageTitle": "Edit startAge and endAge to reject ages more than 120",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e42ac552acd1261cd5d82f688c9f963079027004",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 22
+          },
+          {
+            "hash": "3f84ef4be4166c7dc09aab4a18df055980653cac",
+            "messageTitle": "Add asserts to merge commands",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "7068d04e26c3be0dc5e68533d8e4e1d30fd936c1",
+            "messageTitle": "Edit coverage validation",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "f980d7ca5a7c3f6187b1f66823129431f021b031",
+            "messageTitle": "Add 2.0 feature to userguide",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "1ca1a6e941589261a548ff82c979cbcafbfd90db",
+            "messageTitle": "Add 2.0 feature to user guide",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "559c5d104b76419a131016dec95748552cb4e822",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 69,
+            "deletions": 0
+          },
+          {
+            "hash": "8fa76fd60cefffcba416b0d1384864315a85d5d4",
+            "messageTitle": "Update documentation for SuggestionSwitchCommand",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5c6b32e775a7d9f9a62a2321d5e8e7e6d47e4e7e",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "57d0ecd9f750b5ef678dbd9224b4355b967e0369",
+            "messageTitle": "Fix coverage message",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "5dd06a447521403c240443ebb430b83a8d202a87",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 31
+          },
+          {
+            "hash": "0e6ad8c63e0b98bc0ae95caf076ca2ce3c928fa1",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "87313c91a5122d4ef5d2b5355d260f4a9452c136",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3615204bcb06020c61c6920576f8fcf313e7752e",
+            "messageTitle": "Fix bug for non-expanded commands",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 136,
+        "deletions": 67,
+        "date": "2019-11-06",
+        "commitResults": [
+          {
+            "hash": "53bbc51dcaed003ec121d907b20fb14b3bc7e989",
+            "messageTitle": "Change colour for merge sequence diagram",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "709d5c0175a9d7dd85ccc6be2e197c376c102b82",
+            "messageTitle": "Change colour for merge sequence diagram",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3312d693fb5f77ac426d6253b85556aa5a230c50",
+            "messageTitle": "Add logging for merge",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 1
+          },
+          {
+            "hash": "e84580cd565713f2345d547cd0805f07ac709c67",
+            "messageTitle": "Remove unused import",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d3502f3325bcca14cd9f53cb400251606000e75e",
+            "messageTitle": "Update merge message in user guide",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "fa50ceef6954f4c5428cc123414a6357b0876d95",
+            "messageTitle": "Wrap text for left panel",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 221,
+        "deletions": 83,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "a82bf93b31a25a36f67faccb89bcbf63874ed3d6",
+            "messageTitle": "Change colour for merge sequence diagram",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "94fc3da46d0655db56bb621c286dc71ad5bf6897",
+            "messageTitle": "Add logging for merge",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 1
+          },
+          {
+            "hash": "fdf2ecb01701d9b87e9c99811c3e53e676df4043",
+            "messageTitle": "Remove unused import",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "671ea7d745480673fb62b9c10e39fe44782275b5",
+            "messageTitle": "Update merge message in user guide",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "564dd71ae27381c3efd7d68615794a5ab5dd5603",
+            "messageTitle": "Wrap text for left panel",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 52
+          },
+          {
+            "hash": "5a4bf4b8d0d868ebe28b12afefce97e12896ec84",
+            "messageTitle": "Add wrap text in result display",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "9480eb08b143d73fb32885266859e15e36e6c9fa",
+            "messageTitle": "Edit user guide duplicate profile alert",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5f29bdb985f1523fbd42de89c99a027ede0374d8",
+            "messageTitle": "Update parser to recognise right panel commands",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 3
+          },
+          {
+            "hash": "3730a470001449708819a07badecc47f26f95042",
+            "messageTitle": "Change isSystemInput in executeCommand to true",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8bd3a0b62fa71bc7c5629ac3a4ec3c1f6af8139b",
+            "messageTitle": "Add wrap text in result display",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "076d6086b2242fa47a643e16e6b5e8f7cccfb469",
+            "messageTitle": "Edit user guide duplicate profile alert",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e32138e02364e9668f2113ef5828fc5bcda3fffd",
+            "messageTitle": "Update parser to recognise right panel commands",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 3
+          },
+          {
+            "hash": "1f20df3a031a5c33ca889a6d96d932029832494d",
+            "messageTitle": "Add wrap text for HistoryListCard",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "4f571ce696e0cdfc78cb679b8dcdafb606e8f0e4",
+            "messageTitle": "Fix gender not changing bug",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 108,
+        "deletions": 84,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "4497728507e238d95fd5f2ff147af445c5b804b0",
+            "messageTitle": "Change default details in PersonBuilder",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "1423502f90f95ac52f28625afb65e2174ad5414e",
+            "messageTitle": "Extract methods in MergePersonConfirmedCommand and MergePolicyConfirmedCommand",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 28
+          },
+          {
+            "hash": "9a99e3f1c0cc3d4bb3aa0c54cb327a72d0d6d562",
+            "messageTitle": "Update javadocs in parsers",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "ec2c2f8c8f25185b61b472ffbc7a358e3641a258",
+            "messageTitle": "Remove empty @return statement",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4a3f3bb5e1c8135000e7046ad72829f7d8993333",
+            "messageTitle": "Update TypicalPersons to remove duplicate nrics",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "247edbc63c25564d9e47c69b6e820512cabac3b0",
+            "messageTitle": "Edit test for Person to check same nrics",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "143ded7ea3ad451983fe15f18171ac67ac75b5aa",
+            "messageTitle": "Add static final string for email and phone header",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "f5cee0210f2e2095689e3a7ed1e209a641b18f88",
+            "messageTitle": "Remove extra spaces in between coverage so that equals method works properly",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1e5605fc87ac39406a76b98680686920fdfb00c0",
+            "messageTitle": "Update javadocs",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1b4a8645b4ac9bdedeba4b17917c79df2d15f990",
+            "messageTitle": "Change isSamePerson to only compare nrics",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d0bcb02a7839f9b3b7c6dcbaef1edded333942bc",
+            "messageTitle": "Edit tests and typicalPersonsAddressBook.json to remove duplicate nric cases",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 29
+          },
+          {
+            "hash": "80420f1648d974e53e667b5a7f8d6395a8f62065",
+            "messageTitle": "Update userguide (add note to suggestion of invalid commands)",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 84,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "c383fd82c1b21e04d1edc850afe9056c1fe1f34e",
+            "messageTitle": "Change default details in PersonBuilder",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "466b327b213592c5083e920c8628a4b4a95a5e76",
+            "messageTitle": "Extract methods in MergePersonConfirmedCommand and MergePolicyConfirmedCommand",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 28
+          },
+          {
+            "hash": "0a41d3be1e7f06d6bc4720b029a6f00e91d21e41",
+            "messageTitle": "Update javadocs in parsers",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "3c3a20196918f643d08cfde13cbd44a410397e0c",
+            "messageTitle": "Remove empty @return statement",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0df70613700469e21b646d708500048d15c2cb96",
+            "messageTitle": "Update TypicalPersons to remove duplicate nrics",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "0d5d8ea3979ca02c4bc5ada8436fb27a773d1b2c",
+            "messageTitle": "Edit test for Person to check same nrics",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "aea582512bbddac25af82f2ca438ada959fa6ce9",
+            "messageTitle": "Add static final string for email and phone header",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "c0fb897301e0108940a5ef77474925f27e0035eb",
+            "messageTitle": "Remove extra spaces in between coverage so that equals method works properly",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "aa4b6d599928799bf9a011e2f8922894555b4c52",
+            "messageTitle": "Update javadocs",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cc0cc72ed67b6234047dc899fcf9f820e5e6fb37",
+            "messageTitle": "Change isSamePerson to only compare nrics",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3734360579c5e5f156a2aeacb0468d4da2ec4085",
+            "messageTitle": "Edit tests and typicalPersonsAddressBook.json to remove duplicate nric cases",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 29
+          },
+          {
+            "hash": "831ac0598cb7b641c2dead77ab522874f3a9c2c2",
+            "messageTitle": "Update userguide (add note to suggestion of invalid commands)",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "2a4e99e86df1f7c9b74d2d98bbd9c319aaed3700",
+            "messageTitle": "Add merging of name",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "13bbc531585497bc65ed8141a4adbf1275711f6b",
+            "messageTitle": "Edit person\u0027s name after merge prompt",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 390,
+        "deletions": 32,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "23a90c7f8dd7512d1e67065a50452ec7fd0d337e",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 17
+          },
+          {
+            "hash": "99b2788ad25d44f77903baacb4e6f687f58b6553",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 76,
+            "deletions": 3
+          },
+          {
+            "hash": "160e8c73424fb761a14632c8e9e1cbf80be06185",
+            "messageTitle": "Change merge message when end age and start age is not shown to \"No minimum age\" and \"No maximum age\" when ea and sa not specified in duplicate profile",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 2
+          },
+          {
+            "hash": "87fdadb444c6dc47a63c90258f97736091070d2f",
+            "messageTitle": "Show \"No minimum age\" and \"No maximum age\" in policyinformationholder",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "7c7178ea450992eedbe01e3667df926b06602573",
+            "messageTitle": "Add newline to EOF for PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4e60f79b762bd2438fb1a54d48a7b94f4688b938",
+            "messageTitle": "Add index out of bounds test cases to expandpersoncommandtest and expandpolicycommandtest",
+            "messageBody": "",
+            "insertions": 99,
+            "deletions": 2
+          },
+          {
+            "hash": "91ae5116491c9cbeec6e63d07b395823e354758f",
+            "messageTitle": "Add asserts to MergeStopCommand",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "d0531aaa723647237ea79b0ce75ac4a964382da1",
+            "messageTitle": "Add MergeStopCommandTest",
+            "messageBody": "",
+            "insertions": 149,
+            "deletions": 0
+          },
+          {
+            "hash": "c98654009c554bd5c480f358114d0733a7095caa",
+            "messageTitle": "Edit typo in userguide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b51c0fa81ae59e95d5d6a44e9deb94ab210de597",
+            "messageTitle": "Edit manualtestdisplay",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2f86f6f950e87a5082d56968d65f7544f56bcf9f",
+            "messageTitle": "Edit userguide",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "cb3b21679553d28110ca1d640808556aaaf180d7",
+            "messageTitle": "Edit userguide (history)",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "larrylawl": [
+      {
+        "insertions": 6,
+        "deletions": 5,
+        "date": "2019-09-12",
+        "commitResults": [
+          {
+            "hash": "59b901ab53f475423ff8616dffc690795c86bd39",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "387f9d0119327f4f586b10622b65f87e1f992395",
+            "messageTitle": "Build badge",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "7d45c35be6fea3f070b49e326f7d09b776d835e7",
+            "messageTitle": "Remove trailing white space",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d6cde392976181b77b0edae7f0bdf92483a94a86",
+            "messageTitle": "Fix: Coverage",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
       {
         "insertions": 585,
         "deletions": 92,
@@ -2538,9 +3742,492 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 434,
+        "deletions": 101,
+        "date": "2019-11-02",
+        "commitResults": [
+          {
+            "hash": "4b8701d82197f6842a47af1a47e33341e3829732",
+            "messageTitle": "Added test for displaycommandparser",
+            "messageBody": "",
+            "insertions": 124,
+            "deletions": 9
+          },
+          {
+            "hash": "7ef56a531fb89c27cbf260ddd50b0411227ffe4e",
+            "messageTitle": "Added DisplayCommandTest",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 1
+          },
+          {
+            "hash": "2f9b4d3c425e0fa6d00df71d57396f0cd3cd47dc",
+            "messageTitle": "Assertion and Logging for display command",
+            "messageBody": "",
+            "insertions": 81,
+            "deletions": 8
+          },
+          {
+            "hash": "fb726c20cd6c2ca4d4e0f5b20deed64db419af5e",
+            "messageTitle": "Minor fixes to user and dev guide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "78f1d8b5bbdd53755ddc39411ad1fb864c870de8",
+            "messageTitle": "Fixed help url link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4a4a82bffbe3e612491979021c0d13d7880ac900",
+            "messageTitle": "Assertion and Logging for display command.",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "65d2afaaa1fa7c21617a6f4fc4a27e21faf66628",
+            "messageTitle": "Refactored readme to show logo",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "86dceee9448e115a181035741d4badb542a5195d",
+            "messageTitle": "Refactored display in userguide",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "3f474023d109f407f294ad9f00f0320f9a23d7a0",
+            "messageTitle": "Added codacy and netlify badges",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d00f9826edad85dcff411590c7404ca06a0ba4b2",
+            "messageTitle": "Fixed right panel not updating bug",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 3
+          },
+          {
+            "hash": "08183c90f9e002f3b137fe6493b5d2c25198be01",
+            "messageTitle": "Fix User Guide",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 12
+          },
+          {
+            "hash": "8f3129bfc630e3aca56ab645831ebe63dae990aa",
+            "messageTitle": "Fixed missing gender parameter. Minor bin typos",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 11
+          },
+          {
+            "hash": "a1e8f0c347d2c3ce95415993f284391ca70b4a66",
+            "messageTitle": "Fixed gender error message",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "32a893c8d2724cf0cc265a8f705504cf1f933a38",
+            "messageTitle": "Fixed dob in add userguide",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0943f0112fe4221ed71c8e1b4f187118c02877b9",
+            "messageTitle": "Refactor contact to people in userguide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "62cffb2aaca0389b11c6b2f7c2106bcd9dfe22f5",
+            "messageTitle": "Fixed test naming for model manager display tests",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e3eadb4b5eb679400f5026a2a749b65107c6fc34",
+            "messageTitle": "Add larry\u0027s PPP",
+            "messageBody": "",
+            "insertions": 65,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 179,
+        "deletions": 23,
+        "date": "2019-11-03",
+        "commitResults": [
+          {
+            "hash": "a5cd76fc615ef16575cf8434d67ca6f7f61392e2",
+            "messageTitle": "Refactored larry\u0027s PPP",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "9d44aacda2c75ffd366d1a464a90486d2c34af06",
+            "messageTitle": "Fixed dob message constraints",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 13
+          },
+          {
+            "hash": "587b81c264b83bc505703752551693c37253870f",
+            "messageTitle": "Add logo to right panel",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "2676574cfc173e26e80325be8a81e52755debabd",
+            "messageTitle": "Fixed minor checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "7a79ccb62e9c111a1b971eca0e80aa5e3a55b00f",
+            "messageTitle": "Rename ppp to use github usernames. Add tP code dashboard link to larry\u0027s ppp",
+            "messageBody": "",
+            "insertions": 145,
+            "deletions": 0
+          },
+          {
+            "hash": "8e7d21b97e354aa28ce22ead192dda44679b8146",
+            "messageTitle": "Add history to commands which uses right panel",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "2af7484e5cb2889e32da60eaba854033fb3a0a38",
+            "messageTitle": "Fix branch logic in main window",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-11-04",
+        "commitResults": [
+          {
+            "hash": "20424eb6d550f2ff8dfb75c1eeae836cb1f7cdf7",
+            "messageTitle": "Fix url website to insurelytics",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "037ceb887da4cb0b7fe55024605716aec26f35bb",
+            "messageTitle": " Fix LoC",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 897,
+        "deletions": 367,
+        "date": "2019-11-05",
+        "commitResults": [
+          {
+            "hash": "ef0f94e827704548406244cc6ac99605520abaa6",
+            "messageTitle": "Fix main window size",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e2830b364334ad00ec2eaf5221aa1449d343576c",
+            "messageTitle": "Fix empty gender bug",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 20
+          },
+          {
+            "hash": "de12c44130aad24fd8682cd9fa829dcd68548a87",
+            "messageTitle": "Fix add, addpolicy, expandperson, expandpolicy in UG",
+            "messageBody": "",
+            "insertions": 55,
+            "deletions": 29
+          },
+          {
+            "hash": "f9cceb0a79464f2a439c811a9f3be0fc309dd6eb",
+            "messageTitle": "Add senior policy to typical policy",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 1
+          },
+          {
+            "hash": "32ab1de58b44432965f49b8bf274f825ab505856",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 629,
+            "deletions": 209
+          },
+          {
+            "hash": "615ee35fd0e839575603f251e34d7cfe43953645",
+            "messageTitle": "Rename yi yin\u0027s a doc to github username",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "76d3c91619ad51efeef6eb7d76a24cdf632e4b1a",
+            "messageTitle": "Add larry\u0027s demo script",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "f07a1e5cfe62c74646e8bc0e60884a26b7811c0b",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "897d974cf38a580443f82b061c5f2668f01a7b88",
+            "messageTitle": "Fix result display not updating correctly",
+            "messageBody": "",
+            "insertions": 141,
+            "deletions": 93
+          },
+          {
+            "hash": "4f9f9bd129b2c4058d30240fb383a5bb5da98248",
+            "messageTitle": "Fix larry demo typo.",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6cf052a8ef7cc50a9d27a4d54181f578c5e5deb2",
+            "messageTitle": "Update larry\u0027s PPP",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 52,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "00b4d983ecd0e02a0a3a512b8412974b5b05db4e",
+            "messageTitle": "Revert \"Prepare TypicalAddressBook for demonstration\"",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 36
+          },
+          {
+            "hash": "b7d4b7eb15924a5bbd9bd2619cf6726db7682763",
+            "messageTitle": "Fix main window to use render right panel",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "80b7b485e298fde9efbd4a840ea9841b37db3bcb",
+            "messageTitle": "Add gender to fxml",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 44,
+        "deletions": 6,
+        "date": "2019-11-08",
+        "commitResults": [
+          {
+            "hash": "3ccd58dd53ba2974f63621776f4f07616ae193e3",
+            "messageTitle": "Fix unhandled merge conflict in dev guide",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "4e0e3baaef05be13a12b3ceadafa4d89bff338a6",
+            "messageTitle": "Create bugtest.md",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "60b461a900f8206549f59d979ea92dc0ac8870e5",
+            "messageTitle": "Update issue templates",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "8548e02be653bea0cf45fa6bf037d14d72f8be32",
+            "messageTitle": "Update bugtest.md",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ad0837fc99115b32f1e4f1e254205c08bd0ea7d6",
+            "messageTitle": "Update bugtest.md",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 9,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "174e094bf003562441ead08c74edc87c0ce7a773",
+            "messageTitle": "Update version number",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1fc278f14bf0f25565768b896aa9a355a7cf211c",
+            "messageTitle": "Fix tutorial in userguide",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 8
+          },
+          {
+            "hash": "30793c8eb558dba3a7434d993f7eeda4e61f1eef",
+            "messageTitle": "Add manual testing for display in dev guide",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 821,
+        "deletions": 65,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "ad8c847432097034ceb6c8df1746e958db588dd9",
+            "messageTitle": "Update Chai\u0027s PPP link",
+            "messageBody": "u owe me one chai...",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "83211c2d5e9381ce1ebe7a6525ae07034654c650",
+            "messageTitle": "Add manual test display in larry ppp",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "34a70dbcf074ca3da5a9555b0387d9bce886ca4d",
+            "messageTitle": "Fixes #218",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 47
+          },
+          {
+            "hash": "b95dde3042d0aa9eed763965eff5e575b97518e9",
+            "messageTitle": "Fix larry ppp length",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "f968fbd0a96b01f29377fd369bc8111c9a738174",
+            "messageTitle": "Update repourl and team name in dev guide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d7b4e6582cb452c9900765909bf73cdb02ca9c5f",
+            "messageTitle": "Add UI to readme",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "08ca2889729ab8e6a0a2acefd3c20669612ecf42",
+            "messageTitle": "Minor edit to user and dev guide",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "d06c46e38048eef89e207ac6481402bab14b57e9",
+            "messageTitle": "Fix main app to use typical add book",
+            "messageBody": "",
+            "insertions": 726,
+            "deletions": 4
+          },
+          {
+            "hash": "a95cfd1d358d7b0c46ecb897bb3f1dbdf2632a30",
+            "messageTitle": "v1.4",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       }
     ],
     "chaitanyabaranwal": [
+      {
+        "insertions": 56,
+        "deletions": 4,
+        "date": "2019-09-24",
+        "commitResults": [
+          {
+            "hash": "cd2b78cef81f47ac04fcb6582a66089acb65add9",
+            "messageTitle": "Update user profile and user stories in Developer Guide",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 242,
+        "deletions": 8,
+        "date": "2019-09-26",
+        "commitResults": [
+          {
+            "hash": "e412261db21ae1faed36bd79d44dba091bf179c1",
+            "messageTitle": "Add Undo, Redo and Find-by-Tag features in User Guide",
+            "messageBody": "",
+            "insertions": 242,
+            "deletions": 8
+          }
+        ]
+      },
       {
         "insertions": 16,
         "deletions": 16,
@@ -2904,9 +4591,282 @@
             "deletions": 2
           }
         ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 76,
+        "date": "2019-11-02",
+        "commitResults": [
+          {
+            "hash": "c8086a1a12f91a6eefb13e3e25f2154d5dfb8f38",
+            "messageTitle": "Fix user guide to remove erroneous undo/redo and assignpolicy commands",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 76
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 2,
+        "date": "2019-11-04",
+        "commitResults": [
+          {
+            "hash": "95e3e6b1ab135bba8437646f4ddb9f5422671375",
+            "messageTitle": "Add navigation of commands by pressing up/down keys",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 14,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "02f4d4f34663c36d908b987f9f60fd24c864cc39",
+            "messageTitle": "Fix text wrap in history",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 6
+          },
+          {
+            "hash": "dfb9c08685c9171500970d4f0dc54a188bb87479",
+            "messageTitle": "Fix history bug in right update panel",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 418,
+        "deletions": 97,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "c74e39ca7be1883d69318c94c118e7b89c9b0d51",
+            "messageTitle": "Add logging and assertion statements",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 12
+          },
+          {
+            "hash": "c2001784ab5e65d6871719353d8d9931a2c353c4",
+            "messageTitle": "Update Undo/Redo Command tests",
+            "messageBody": "",
+            "insertions": 125,
+            "deletions": 20
+          },
+          {
+            "hash": "f7ea7a29a1449715503630ceae83f7ed8f02bc89",
+            "messageTitle": "Update test for HistoryCommand",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "0af88fac052685100e165e230d4eb8a123f76d69",
+            "messageTitle": "Add command history tests for LogicManager",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 0
+          },
+          {
+            "hash": "a82078e70ebb6b0afff357cf21412eed87efd380",
+            "messageTitle": "Add AddressBookParser tests",
+            "messageBody": "",
+            "insertions": 87,
+            "deletions": 14
+          },
+          {
+            "hash": "4ec2750d89b6e50eef050100f50f1dc257cce311",
+            "messageTitle": "Update UI images in Readme/UserGuide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a87f7514ae78ac8519e2b1b30a4c1513d3333f53",
+            "messageTitle": "Allow Age of 120 as maximum valid age for policies",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "36d190668a0c0d1f4f925e388b8a6ad44d1cda1f",
+            "messageTitle": "Update User Guide for undo-redo, history and edit commands",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 27
+          },
+          {
+            "hash": "98f43bcbab7b7d2d80b97481ae86b3293ea365a7",
+            "messageTitle": "Remove tags from EditCommand message usage",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "c15fbcc936d00e543498982367adfb3fb6872759",
+            "messageTitle": "Add examples for edit command and history command in UG",
+            "messageBody": "",
+            "insertions": 49,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 269,
+        "deletions": 203,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "3de209cc5e5ac8a6719baca12906956966e46164",
+            "messageTitle": "Add PPP and update User Guide",
+            "messageBody": "",
+            "insertions": 169,
+            "deletions": 98
+          },
+          {
+            "hash": "bd6a8a2bafc6f7492f8df4f2aef868cc7bb07aa2",
+            "messageTitle": "Add tests for StatefulAddressBook and ModelManager",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 3
+          },
+          {
+            "hash": "48d7523885bf1a252d566ff47094199937813c99",
+            "messageTitle": "Update Developer Guide to shorten certain sections",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 102
+          },
+          {
+            "hash": "741c08e05dfb73f4dc9e9ade5cda61f5574cdb9b",
+            "messageTitle": "Remove PDF",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 81,
+        "deletions": 1,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "16606a14c1a75e4e746451f903adc4ff0568cf18",
+            "messageTitle": "Add manual testing for assignpolicy, undo/redo and history",
+            "messageBody": "",
+            "insertions": 70,
+            "deletions": 1
+          },
+          {
+            "hash": "bf9e285f1dffdddc8cf22cdbcf4edddc6dd02829",
+            "messageTitle": "add extra links to PPP Chaitanya",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "6edfe1a8372e45e097e6be086394f9006488e86d",
+            "messageTitle": "Fix render right panel bug",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "ybchen97": [
+      {
+        "insertions": 42,
+        "deletions": 12,
+        "date": "2019-09-25",
+        "commitResults": [
+          {
+            "hash": "18bd6a51ebf9eb1c7b5e0f52e79ab6de4e430227",
+            "messageTitle": "Updated README.adoc",
+            "messageBody": "Removed codacy and gitter badges.\nAdded relevant content to our project. Project name will be Insurelytics\nfor now (subject to changes).\n",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "31a9f3dd66887dbfb6aa602b79dedafc16f0f19b",
+            "messageTitle": "Removed appveyor badge",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2a49b38528ddf630aebc1495c498ef25515ff500",
+            "messageTitle": "Added use case for recycling bin. Edited use case for delete contact",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 42,
+        "deletions": 14,
+        "date": "2019-09-26",
+        "commitResults": [
+          {
+            "hash": "5e7bfd4c778ffc7ba6884a13b16473c4c306bb0e",
+            "messageTitle": "Added Ui mockup",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "d166d98d8ca76c3875d991077109bd57fff90dad",
+            "messageTitle": "Removed learning outcomes",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2abb71dbad16ae2a5211ca3abd6761e02d6a9ad6",
+            "messageTitle": "Updated README.adoc",
+            "messageBody": "Removed codacy and gitter badges.\nAdded relevant content to our project. Project name will be Insurelytics\nfor now (subject to changes).\n",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "10cde75c9405c13dd9fca6d642c5be46b8367685",
+            "messageTitle": "Removed appveyor badge",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "92e9241e750ec3ed83f6abb990ef7199c3734f73",
+            "messageTitle": "Added use case for recycling bin. Edited use case for delete contact",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 5
+          },
+          {
+            "hash": "a427758aafe2472ba1e93df08f326260d1d1ba71",
+            "messageTitle": "Added Ui mockup",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "93b0f85097baac5e76a0cf5c68b99c7b3170c0bc",
+            "messageTitle": "Removed learning outcomes",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
       {
         "insertions": 602,
         "deletions": 35,
@@ -3179,38 +5139,338 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 351,
+        "deletions": 42,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "6caae1cca07ceb56f70c7264ee3abc800708c7d3",
+            "messageTitle": "Edit clear command description",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7f24d820c31f6265562d1b9db9fe6a35fae94f43",
+            "messageTitle": "Add functionality to set bin item expiry time as a user setting",
+            "messageBody": "",
+            "insertions": 199,
+            "deletions": 9
+          },
+          {
+            "hash": "61801e18cbeffa12457bd8b0958fa3a73420451c",
+            "messageTitle": "Fix broken tests and checkstyle",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "4a3ad7eb059720fe38fc3cf291516744848fec21",
+            "messageTitle": "Change success message",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d44c1eb593a98c63f1f2ee8860bbaed1367d8fc7",
+            "messageTitle": "Add binexpirytime functionality to userguide",
+            "messageBody": "",
+            "insertions": 38,
+            "deletions": 2
+          },
+          {
+            "hash": "ceba51870fc4b73a826bf533c46555c0b0b9a073",
+            "messageTitle": "Fix bug that allows nullary commands to run with trailing arguments",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "1f7d441fb5ee853c7cfe742f68cb1f24feba3c2f",
+            "messageTitle": "Fix and add new tests",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 5
+          },
+          {
+            "hash": "5d2a6762c44007f7eddacdd14c0465abe7711822",
+            "messageTitle": "Fix checkstyle and add more tests",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 6
+          },
+          {
+            "hash": "9e71b60eb57b5498b1dd11d99d6c03e9614c3ce9",
+            "messageTitle": "Change binitemexpiry functionality to update all expiry dates of all bin items",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "abe009eee0ff980f0f33fecadc13e8eafec2d652",
+            "messageTitle": "Update userguide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 603,
+        "deletions": 298,
+        "date": "2019-11-08",
+        "commitResults": [
+          {
+            "hash": "2c19f77617766989612665bdb94e5e64d0d989db",
+            "messageTitle": "Reorder commandbox and resultholder",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 39
+          },
+          {
+            "hash": "eca4db4b1c97ddf968ed5e931bf3fcd30b952821",
+            "messageTitle": "Remove menu bar",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 57
+          },
+          {
+            "hash": "ace4ac58d2e74e456deca225e5541a9600f9fa4b",
+            "messageTitle": "Make basic UI changes",
+            "messageBody": "",
+            "insertions": 563,
+            "deletions": 16
+          },
+          {
+            "hash": "89c61e14fd3b9dbc98de1c2cb7ef62c2c4ec3ff7",
+            "messageTitle": "Fix checkstyle and remove unused font",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 186
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 30,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "1f31a2908b3c1837af3fd504a38cbbd7c48e2115",
+            "messageTitle": "Edit userguide for delete and deletepolicy",
+            "messageBody": "",
+            "insertions": 63,
+            "deletions": 14
+          },
+          {
+            "hash": "b5409e599e71ca5d3960ebeaebd598dcfeae4f5c",
+            "messageTitle": "Add note on indices and person/policy page in tutorial section",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 10
+          },
+          {
+            "hash": "d9d12cbedb1e948c246e70d06510cddc3f7a6070",
+            "messageTitle": "Fix tutorial section",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 110,
+        "deletions": 69,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "85e25bf4008eaaa15dbfcd318e4b185670074939",
+            "messageTitle": "Add ppp",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 28
+          },
+          {
+            "hash": "9b28e064304541a1f5cca71ba0e59ca566de1022",
+            "messageTitle": "Update userguide and dev guide",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 18
+          },
+          {
+            "hash": "3f7893bcf2d3ad0db402379f5f44364c6ecddcce",
+            "messageTitle": "Fix broken links to ppp pages",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "3e170af6846a1161969348b91ca4d1365b8c3ba8",
+            "messageTitle": "Add new tags for commands",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "49dc2e87cdb2649c214cf522be19f5c240a7f1c2",
+            "messageTitle": "Add in ui screenshot",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "2309c034842ad1da5aa7bea5e2ddfff77435d8ab",
+            "messageTitle": "Update larry\u0027s ppp",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "0359cd784266d55471754abb8f194211a1d6d6df",
+            "messageTitle": "Fix typo",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 746,
+        "deletions": 229,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "5340b8f9f32dfe4e9a712fb9089bc6ffc08fb6fb",
+            "messageTitle": "Add binitemexpiry to suggestions feature",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "a06fedf362955112e27082024bcd1327c710639e",
+            "messageTitle": "Add logging and assertions",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "6b6cfaaaec260ae058f21eb64df554cf898ac47f",
+            "messageTitle": "Add tests for listbin and deletepolicy",
+            "messageBody": "",
+            "insertions": 327,
+            "deletions": 5
+          },
+          {
+            "hash": "72923c2d6619d89f24372df9e0ebd500fc132c72",
+            "messageTitle": "Fix command summary for binitemexpiry",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7d428bce378397a056b4803e85fb1431ecca8e22",
+            "messageTitle": "Add tests for RestoreCommand",
+            "messageBody": "",
+            "insertions": 122,
+            "deletions": 4
+          },
+          {
+            "hash": "bc74c6f470195716d361daada60e5065e307410f",
+            "messageTitle": "Add BinItemExpiryCommandParser tests",
+            "messageBody": "",
+            "insertions": 115,
+            "deletions": 14
+          },
+          {
+            "hash": "cb5f3eeafae78c604665326fd4cb936cf413da39",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "b64d04e900e714e068ae184e0f320635d210846b",
+            "messageTitle": "Resolve merge conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 189
+          },
+          {
+            "hash": "8081c74f0d20aeb147b91c3904903bd4890de3fd",
+            "messageTitle": "Add back file that was removed",
+            "messageBody": "",
+            "insertions": 117,
+            "deletions": 0
+          },
+          {
+            "hash": "863057187bf03653cada85f983663c20d23264d4",
+            "messageTitle": "Fix eof error",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9d26436e7bb3f3e0c6ea819dd883da63425cee5f",
+            "messageTitle": "Update ppp and add manual testing to dev guide",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 7
+          },
+          {
+            "hash": "3c71dcf434c589c19a32a32aec3e004eec1dabc2",
+            "messageTitle": "Add redo command word to suggestions feature",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "olivercheok20": 2522,
-    "chowyiyin": 7908,
-    "larrylawl": 2907,
-    "chaitanyabaranwal": 2392,
-    "ybchen97": 2282
+    "olivercheok20": 3180,
+    "chowyiyin": 9049,
+    "larrylawl": 4886,
+    "chaitanyabaranwal": 3066,
+    "ybchen97": 3870
   },
   "authorFileTypeContributionMap": {
     "olivercheok20": {
-      "adoc": 132,
+      "adoc": 79,
+      "adoc": 191,
+      "puml": 43,
+      "puml": 37,
+      "adoc": 40,
       "java": 1,
       "java": 17,
       "java": 37,
-      "java": 19,
+      "java": 18,
+      "java": 17,
+      "java": 1,
       "java": 111,
-      "java": 107,
+      "java": 1,
       "java": 105,
-      "java": 9,
-      "java": 141,
+      "java": 101,
+      "java": 4,
       "java": 139,
-      "java": 128,
+      "java": 137,
+      "java": 124,
       "java": 24,
+      "java": 1,
       "java": 68,
       "java": 69,
+      "java": 1,
       "java": 5,
       "java": 46,
       "java": 67,
-      "java": 77,
-      "java": 77,
+      "java": 78,
+      "java": 78,
+      "java": 2,
+      "java": 1,
+      "java": 1,
+      "java": 1,
       "java": 49,
       "java": 49,
       "java": 49,
@@ -3226,44 +5486,55 @@
       "java": 39,
       "java": 39,
       "java": 11,
-      "java": 11,
+      "java": 1,
+      "java": 20,
       "java": 29,
       "java": 30,
       "java": 31,
       "java": 11,
-      "java": 19,
+      "java": 35,
       "java": 29,
+      "java": 3,
       "java": 31,
       "java": 1,
       "java": 5,
+      "java": 9,
+      "java": 121,
       "java": 6,
-      "java": 8,
+      "java": 6,
       "java": 1,
       "css": 6,
-      "json": 1,
+      "json": 14,
+      "java": 108,
+      "java": 103,
       "java": 3,
       "java": 81,
-      "java": 90,
+      "java": 87,
       "java": 93,
       "java": 93,
+      "java": 1,
+      "java": 13,
       "java": 1
     },
     "chowyiyin": {
-      "adoc": 76,
-      "adoc": 56,
+      "adoc": 2,
+      "adoc": 190,
+      "adoc": 286,
       "puml": 22,
       "puml": 67,
       "puml": 72,
+      "adoc": 75,
+      "adoc": 10,
       "java": 2,
-      "java": 49,
-      "java": 49,
+      "java": 48,
+      "java": 52,
       "java": 27,
       "java": 55,
       "java": 44,
-      "java": 108,
+      "java": 123,
       "java": 10,
       "java": 41,
-      "java": 37,
+      "java": 51,
       "java": 1,
       "java": 8,
       "java": 8,
@@ -3276,31 +5547,31 @@
       "java": 17,
       "java": 17,
       "java": 17,
-      "java": 45,
-      "java": 45,
+      "java": 51,
+      "java": 51,
       "java": 35,
       "java": 33,
-      "java": 121,
-      "java": 82,
-      "java": 53,
-      "java": 133,
-      "java": 86,
-      "java": 53,
+      "java": 140,
+      "java": 105,
+      "java": 59,
+      "java": 159,
+      "java": 101,
+      "java": 59,
       "java": 31,
-      "java": 53,
+      "java": 64,
       "java": 45,
       "java": 75,
-      "java": 202,
-      "java": 50,
+      "java": 236,
+      "java": 45,
       "java": 68,
       "java": 84,
       "java": 10,
       "java": 31,
       "java": 31,
-      "java": 76,
-      "java": 80,
+      "java": 75,
+      "java": 78,
       "java": 77,
-      "java": 307,
+      "java": 306,
       "java": 12,
       "java": 29,
       "java": 53,
@@ -3309,23 +5580,22 @@
       "java": 33,
       "java": 22,
       "java": 3,
-      "java": 1,
       "java": 13,
       "java": 1,
-      "java": 196,
-      "java": 2,
+      "java": 197,
+      "java": 3,
       "java": 14,
       "java": 60,
-      "java": 55,
-      "java": 4,
+      "java": 53,
+      "java": 5,
       "java": 5,
       "java": 106,
       "java": 55,
-      "java": 65,
-      "java": 170,
+      "java": 66,
+      "java": 162,
       "java": 59,
       "java": 58,
-      "java": 65,
+      "java": 66,
       "java": 140,
       "java": 11,
       "java": 6,
@@ -3334,31 +5604,34 @@
       "java": 45,
       "java": 148,
       "java": 83,
-      "java": 5,
+      "java": 1,
       "java": 9,
       "java": 75,
+      "java": 89,
       "java": 86,
-      "java": 80,
+      "fxml": 8,
       "css": 36,
-      "fxml": 14,
-      "fxml": 1,
-      "fxml": 21,
       "fxml": 11,
-      "fxml": 20,
       "fxml": 1,
+      "fxml": 2,
+      "fxml": 21,
+      "fxml": 18,
+      "fxml": 20,
+      "fxml": 11,
+      "fxml": 2,
       "json": 4,
-      "json": 9,
+      "json": 17,
+      "java": 10,
       "java": 11,
-      "java": 13,
       "java": 28,
-      "java": 132,
+      "java": 131,
       "java": 70,
       "java": 121,
       "java": 119,
       "java": 24,
       "java": 2,
-      "java": 47,
-      "java": 48,
+      "java": 96,
+      "java": 96,
       "java": 1,
       "java": 136,
       "java": 194,
@@ -3366,51 +5639,71 @@
       "java": 137,
       "java": 264,
       "java": 191,
+      "java": 149,
+      "java": 2,
       "java": 127,
-      "java": 68,
+      "java": 2,
+      "java": 70,
       "java": 171,
       "java": 105,
       "java": 104,
-      "java": 93,
+      "java": 97,
       "java": 69,
       "java": 74,
       "java": 11,
       "java": 26,
       "java": 26,
-      "java": 249,
+      "java": 240,
       "java": 58,
       "java": 3,
+      "java": 6,
       "java": 1,
-      "java": 9,
+      "java": 12,
       "java": 5,
       "java": 3,
+      "java": 48,
+      "java": 39,
+      "java": 39,
+      "java": 40,
+      "java": 38,
+      "java": 39,
       "java": 17,
       "java": 15,
       "java": 11,
       "java": 64,
       "java": 13,
-      "java": 32
+      "java": 40
     },
     "larrylawl": {
-      "adoc": 5,
-      "adoc": 11,
-      "adoc": 63,
-      "adoc": 31,
+      "md": 30,
+      "gitignore": 1,
+      "adoc": 19,
+      "gradle": 2,
+      "adoc": 33,
+      "adoc": 136,
+      "adoc": 157,
       "adoc": 2,
+      "md": 12,
+      "md": 32,
       "puml": 19,
-      "puml": 55,
+      "puml": 58,
       "puml": 35,
       "puml": 3,
-      "java": 1,
-      "java": 21,
+      "adoc": 92,
+      "adoc": 35,
+      "adoc": 36,
+      "java": 3,
+      "java": 20,
       "java": 134,
-      "java": 52,
+      "java": 59,
       "java": 27,
-      "java": 27,
+      "java": 26,
       "java": 8,
+      "java": 20,
       "java": 119,
-      "java": 50,
-      "java": 54,
+      "java": 253,
+      "java": 65,
+      "java": 53,
       "java": 44,
       "java": 44,
       "java": 6,
@@ -3418,74 +5711,89 @@
       "java": 1,
       "java": 1,
       "java": 1,
-      "java": 24,
       "java": 23,
+      "java": 22,
       "java": 8,
       "java": 22,
       "java": 7,
-      "java": 53,
+      "java": 49,
       "java": 14,
-      "java": 6,
+      "java": 1,
+      "java": 5,
       "java": 21,
-      "java": 69,
+      "java": 72,
       "java": 14,
       "java": 39,
-      "java": 77,
+      "java": 94,
       "java": 7,
-      "java": 81,
+      "java": 1,
+      "java": 80,
       "java": 6,
       "java": 2,
-      "java": 22,
-      "java": 31,
+      "java": 21,
+      "java": 8,
+      "java": 3,
+      "java": 14,
+      "java": 28,
       "java": 7,
       "java": 90,
       "java": 90,
       "java": 16,
       "java": 13,
-      "java": 87,
-      "java": 31,
+      "java": 91,
+      "java": 49,
+      "java": 82,
+      "java": 170,
+      "java": 77,
+      "java": 96,
+      "java": 35,
       "java": 1,
-      "java": 57,
-      "java": 88,
-      "java": 32,
-      "java": 64,
+      "java": 59,
+      "java": 75,
+      "java": 1,
+      "java": 39,
+      "java": 144,
       "java": 2,
-      "java": 72,
+      "java": 4,
+      "java": 85,
       "java": 1,
       "java": 45,
       "java": 29,
       "fxml": 14,
       "css": 7,
       "fxml": 14,
-      "fxml": 22,
+      "fxml": 16,
       "fxml": 1,
       "fxml": 6,
-      "fxml": 42,
+      "fxml": 35,
       "fxml": 8,
       "fxml": 14,
       "json": 5,
       "json": 5,
       "json": 9,
-      "json": 48,
-      "java": 17,
+      "json": 410,
+      "java": 25,
       "java": 7,
       "java": 2,
       "java": 4,
       "java": 3,
       "java": 1,
       "java": 48,
-      "java": 75,
+      "java": 120,
       "java": 1,
+      "java": 34,
       "java": 1,
       "java": 12,
       "java": 1,
-      "java": 14,
-      "java": 13,
+      "java": 7,
+      "java": 10,
+      "java": 43,
       "java": 1,
       "java": 1,
       "java": 1,
-      "java": 52,
+      "java": 50,
       "java": 2,
+      "java": 88,
       "java": 15,
       "java": 2,
       "java": 1,
@@ -3497,13 +5805,13 @@
       "java": 2,
       "java": 180,
       "java": 30,
-      "java": 48,
-      "java": 64,
+      "java": 78,
+      "java": 75,
       "java": 2
     },
     "chaitanyabaranwal": {
-      "adoc": 138,
-      "adoc": 13,
+      "adoc": 257,
+      "adoc": 183,
       "puml": 10,
       "puml": 20,
       "puml": 20,
@@ -3513,16 +5821,17 @@
       "puml": 35,
       "puml": 4,
       "puml": 16,
-      "puml": 37,
+      "puml": 38,
       "puml": 2,
       "puml": 2,
       "puml": 1,
       "puml": 1,
       "puml": 1,
+      "adoc": 9,
       "java": 16,
       "java": 1,
       "java": 6,
-      "java": 23,
+      "java": 26,
       "java": 2,
       "java": 3,
       "java": 4,
@@ -3534,36 +5843,41 @@
       "java": 4,
       "java": 2,
       "java": 2,
-      "java": 4,
+      "java": 5,
       "java": 4,
       "java": 20,
       "java": 1,
-      "java": 28,
+      "java": 35,
       "java": 99,
-      "java": 28,
-      "java": 30,
+      "java": 35,
+      "java": 29,
       "java": 55,
       "java": 6,
+      "java": 1,
       "java": 56,
       "java": 13,
-      "java": 54,
+      "java": 65,
       "java": 49,
-      "java": 68,
-      "java": 120,
+      "java": 72,
+      "java": 123,
       "java": 9,
+      "java": 1,
       "java": 5,
       "java": 18,
+      "java": 1,
       "java": 18,
       "java": 14,
       "java": 2,
+      "java": 31,
       "java": 58,
       "java": 46,
-      "java": 11,
+      "java": 16,
       "java": 1,
-      "fxml": 36,
+      "fxml": 2,
+      "fxml": 29,
       "fxml": 8,
-      "fxml": 3,
-      "java": 2,
+      "fxml": 1,
+      "java": 39,
       "java": 2,
       "java": 3,
       "java": 3,
@@ -3572,32 +5886,35 @@
       "java": 15,
       "java": 2,
       "java": 5,
-      "java": 45,
+      "java": 51,
       "java": 1,
       "java": 1,
       "java": 1,
       "java": 3,
-      "java": 130,
+      "java": 184,
       "java": 150,
-      "java": 118,
+      "java": 165,
       "java": 1,
-      "java": 1,
+      "java": 85,
       "java": 70,
       "java": 70,
       "java": 1,
       "java": 60,
-      "java": 121,
+      "java": 51,
+      "java": 151,
       "java": 1,
       "java": 1,
       "java": 1,
       "java": 11,
       "java": 3,
-      "java": 2,
+      "java": 1,
       "java": 1
     },
     "ybchen97": {
-      "adoc": 67,
-      "adoc": 25,
+      "adoc": 6,
+      "adoc": 4,
+      "adoc": 139,
+      "adoc": 158,
       "puml": 33,
       "puml": 35,
       "puml": 51,
@@ -3605,80 +5922,102 @@
       "puml": 14,
       "puml": 53,
       "puml": 8,
+      "adoc": 117,
+      "adoc": 4,
+      "adoc": 54,
+      "java": 12,
       "java": 4,
-      "java": 2,
-      "java": 75,
+      "java": 16,
+      "java": 77,
       "java": 9,
       "java": 6,
-      "java": 8,
+      "java": 16,
+      "java": 81,
       "java": 16,
       "java": 6,
-      "java": 80,
-      "java": 279,
+      "java": 81,
+      "java": 2,
+      "java": 277,
       "java": 1,
       "java": 1,
       "java": 1,
       "java": 1,
       "java": 1,
+      "java": 25,
+      "java": 1,
+      "java": 1,
+      "java": 1,
+      "java": 69,
       "java": 27,
-      "java": 1,
-      "java": 1,
-      "java": 1,
-      "java": 67,
-      "java": 7,
+      "java": 72,
+      "java": 12,
       "java": 29,
-      "java": 1,
       "java": 92,
-      "java": 16,
+      "java": 31,
       "java": 28,
       "java": 97,
       "java": 66,
-      "java": 85,
+      "java": 92,
       "java": 7,
-      "java": 103,
+      "java": 111,
       "java": 6,
       "java": 126,
       "java": 6,
       "java": 11,
       "java": 2,
       "java": 1,
-      "java": 5,
-      "java": 2,
-      "java": 2,
+      "java": 3,
+      "java": 1,
       "java": 2,
       "java": 2,
       "java": 1,
-      "java": 86,
+      "java": 1,
+      "java": 87,
       "java": 15,
-      "java": 57,
+      "java": 58,
       "java": 34,
       "java": 34,
-      "java": 8,
+      "java": 7,
       "java": 22,
       "java": 26,
+      "java": 1,
       "fxml": 8,
       "fxml": 45,
-      "fxml": 45,
+      "fxml": 37,
+      "fxml": 4,
+      "css": 358,
+      "fxml": 5,
+      "fxml": 1,
+      "fxml": 1,
       "json": 2,
       "json": 2,
-      "json": 95,
+      "json": 84,
+      "java": 2,
+      "java": 1,
+      "java": 51,
       "java": 19,
-      "java": 61,
+      "java": 110,
       "java": 5,
+      "java": 243,
       "java": 1,
       "java": 1,
+      "java": 43,
+      "java": 114,
+      "java": 55,
+      "java": 39,
       "java": 16,
       "java": 40,
       "java": 6,
-      "java": 82
+      "java": 82,
+      "java": 2
     }
   },
   "authorContributionVariance": {
-    "olivercheok20": 56616.293,
-    "chowyiyin": 783245.9,
-    "larrylawl": 687046.6,
-    "chaitanyabaranwal": 138497.31,
-    "ybchen97": 97301.54
+    "olivercheok20": 28293.38,
+    "chowyiyin": 347780.44,
+    "larrylawl": 270650.1,
+    "chaitanyabaranwal": 55625.484,
+    "ybchen97": 53618.336
   },
   "authorDisplayNameMap": {
     "olivercheok20": "CS2103-F09-4 OLIVE ... CHEOK",
