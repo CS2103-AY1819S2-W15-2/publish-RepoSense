@@ -3738,6 +3738,9 @@
             "hash": "5cb162c952c45a819fd5634959964043b2289b9d",
             "messageTitle": "v1.3",
             "messageBody": "",
+            "tags": [
+              "v1.3"
+            ],
             "insertions": 1,
             "deletions": 1
           }
@@ -4109,6 +4112,9 @@
             "hash": "174e094bf003562441ead08c74edc87c0ce7a773",
             "messageTitle": "Update version number",
             "messageBody": "",
+            "tags": [
+              "v1.3.2"
+            ],
             "insertions": 1,
             "deletions": 1
           },
@@ -4776,6 +4782,9 @@
             "hash": "6edfe1a8372e45e097e6be086394f9006488e86d",
             "messageTitle": "Fix render right panel bug",
             "messageBody": "",
+            "tags": [
+              "v1.4"
+            ],
             "insertions": 2,
             "deletions": 0
           }

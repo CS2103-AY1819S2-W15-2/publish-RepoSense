@@ -1,37 +1,7 @@
 {
-  "repoSenseVersion": "b3aaf1c56e",
-  "reportGeneratedTime": "Wed Jan 22 10:33:29 2020 UTC",
+  "repoSenseVersion": "6fe782466d",
+  "reportGeneratedTime": "Fri Jan 24 10:34:54 2020 UTC",
   "repos": [
-    {
-      "location": {
-        "location": "https://github.com/AY1920S1-CS2103-F09-1/main.git",
-        "repoName": "main",
-        "organization": "AY1920S1-CS2103-F09-1"
-      },
-      "branch": "master",
-      "displayName": "AY1920S1-CS2103-F09-1/main[master]",
-      "outputFolderName": "AY1920S1-CS2103-F09-1_main_master"
-    },
-    {
-      "location": {
-        "location": "https://github.com/AY1920S1-CS2103-F09-2/main.git",
-        "repoName": "main",
-        "organization": "AY1920S1-CS2103-F09-2"
-      },
-      "branch": "master",
-      "displayName": "AY1920S1-CS2103-F09-2/main[master]",
-      "outputFolderName": "AY1920S1-CS2103-F09-2_main_master"
-    },
-    {
-      "location": {
-        "location": "https://github.com/AY1920S1-CS2103-F09-3/main.git",
-        "repoName": "main",
-        "organization": "AY1920S1-CS2103-F09-3"
-      },
-      "branch": "master",
-      "displayName": "AY1920S1-CS2103-F09-3/main[master]",
-      "outputFolderName": "AY1920S1-CS2103-F09-3_main_master"
-    },
     {
       "location": {
         "location": "https://github.com/AY1920S1-CS2103-F09-4/main.git",
@@ -43,7 +13,20 @@
       "outputFolderName": "AY1920S1-CS2103-F09-4_main_master"
     }
   ],
-  "errorList": [],
+  "errorList": [
+    {
+      "repoName": "AY1920S1-CS2103-F09-1/main[master]",
+      "errorMessage": "Unexpected error stack trace for https://github.com/AY1920S1-CS2103-F09-1/main.git:\n\u003ejava.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6\n\tat reposense.commits.CommitInfoAnalyzer.analyzeCommit(CommitInfoAnalyzer.java:86)\n\tat reposense.commits.CommitInfoAnalyzer.lambda$analyzeCommits$0(CommitInfoAnalyzer.java:57)\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)\n\tat java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\n\tat java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\n\tat java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)\n\tat reposense.commits.CommitInfoAnalyzer.analyzeCommits(CommitInfoAnalyzer.java:61)\n\tat reposense.commits.CommitsReporter.generateCommitSummary(CommitsReporter.java:21)\n\tat reposense.report.ReportGenerator.analyzeRepo(ReportGenerator.java:244)\n\tat reposense.report.ReportGenerator.analyzeRepos(ReportGenerator.java:203)\n\tat reposense.report.ReportGenerator.cloneAndAnalyzeRepos(ReportGenerator.java:169)\n\tat reposense.report.ReportGenerator.generateReposReport(ReportGenerator.java:98)\n\tat reposense.RepoSense.main(RepoSense.java:68)\n"
+    },
+    {
+      "repoName": "AY1920S1-CS2103-F09-2/main[master]",
+      "errorMessage": "Unexpected error stack trace for https://github.com/AY1920S1-CS2103-F09-2/main.git:\n\u003ejava.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6\n\tat reposense.commits.CommitInfoAnalyzer.analyzeCommit(CommitInfoAnalyzer.java:86)\n\tat reposense.commits.CommitInfoAnalyzer.lambda$analyzeCommits$0(CommitInfoAnalyzer.java:57)\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)\n\tat java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\n\tat java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\n\tat java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)\n\tat reposense.commits.CommitInfoAnalyzer.analyzeCommits(CommitInfoAnalyzer.java:61)\n\tat reposense.commits.CommitsReporter.generateCommitSummary(CommitsReporter.java:21)\n\tat reposense.report.ReportGenerator.analyzeRepo(ReportGenerator.java:244)\n\tat reposense.report.ReportGenerator.analyzeRepos(ReportGenerator.java:203)\n\tat reposense.report.ReportGenerator.cloneAndAnalyzeRepos(ReportGenerator.java:169)\n\tat reposense.report.ReportGenerator.generateReposReport(ReportGenerator.java:98)\n\tat reposense.RepoSense.main(RepoSense.java:68)\n"
+    },
+    {
+      "repoName": "AY1920S1-CS2103-F09-3/main[master]",
+      "errorMessage": "Unexpected error stack trace for https://github.com/AY1920S1-CS2103-F09-3/main.git:\n\u003ejava.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6\n\tat reposense.commits.CommitInfoAnalyzer.analyzeCommit(CommitInfoAnalyzer.java:86)\n\tat reposense.commits.CommitInfoAnalyzer.lambda$analyzeCommits$0(CommitInfoAnalyzer.java:57)\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)\n\tat java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\n\tat java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\n\tat java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)\n\tat reposense.commits.CommitInfoAnalyzer.analyzeCommits(CommitInfoAnalyzer.java:61)\n\tat reposense.commits.CommitsReporter.generateCommitSummary(CommitsReporter.java:21)\n\tat reposense.report.ReportGenerator.analyzeRepo(ReportGenerator.java:244)\n\tat reposense.report.ReportGenerator.analyzeRepos(ReportGenerator.java:203)\n\tat reposense.report.ReportGenerator.cloneAndAnalyzeRepos(ReportGenerator.java:169)\n\tat reposense.report.ReportGenerator.generateReposReport(ReportGenerator.java:98)\n\tat reposense.RepoSense.main(RepoSense.java:68)\n"
+    }
+  ],
   "sinceDate": "2019-08-12",
   "untilDate": "2019-11-15",
   "isSinceDateProvided": true,
