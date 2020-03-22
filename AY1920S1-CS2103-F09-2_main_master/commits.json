@@ -7322,18 +7322,18 @@
     ]
   },
   "authorFinalContributionMap": {
-    "nattanyz": 2622,
+    "nattanyz": 2608,
     "AHaliq": 3346,
-    "PhireHandy": 1150,
-    "shawnpunchew11": 1737,
-    "timothyleong97": 4029,
-    "huiminlim": 2812
+    "PhireHandy": 1139,
+    "shawnpunchew11": 1723,
+    "timothyleong97": 4024,
+    "huiminlim": 2803
   },
   "authorFileTypeContributionMap": {
     "nattanyz": {
       "gitignore": 2,
       "adoc": 199,
-      "java": 1978,
+      "java": 1964,
       "fxml": 412,
       "css": 31
     },
@@ -7345,13 +7345,13 @@
     "PhireHandy": {
       "gitignore": 5,
       "adoc": 131,
-      "java": 1014
+      "java": 1003
     },
     "shawnpunchew11": {
       "json": 10,
       "adoc": 220,
       "puml": 122,
-      "java": 1367,
+      "java": 1353,
       "fxml": 18
     },
     "timothyleong97": {
@@ -7360,7 +7360,7 @@
       "gradle": 6,
       "puml": 34,
       "properties": 3,
-      "java": 3566,
+      "java": 3561,
       "fxml": 283,
       "js": 1
     },
@@ -7368,7 +7368,7 @@
       "yml": 7,
       "adoc": 1009,
       "puml": 121,
-      "java": 1675
+      "java": 1666
     }
   },
   "authorContributionVariance": {

@@ -56558,91 +56558,91 @@
       {
         "lineNumber": 149,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "        // solution adapted from https://stackoverflow.com/questions/30191264/javafx-tableview-"
       },
       {
         "lineNumber": 150,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "        // how-to-get-the-row-i-clicked"
       },
       {
         "lineNumber": 151,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "        this.deckTableView.setRowFactory(tv -\u003e {"
       },
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "            TableRow\u003cDeck\u003e row \u003d new TableRow\u003c\u003e();"
       },
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "            row.setOnMouseClicked(event -\u003e {"
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "                if (!row.isEmpty() \u0026\u0026 event.getButton() \u003d\u003d MouseButton.PRIMARY"
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "                    \u0026\u0026 event.getClickCount() \u003d\u003d 2) {"
       },
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "                    Deck selectedDeck \u003d row.getItem();"
       },
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "                    StatsDisplayUtil.openDeckStatisticsWindow(selectedDeck);"
       },
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "                }"
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "            });"
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "            return row;"
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "        });"
       },
@@ -56669,8 +56669,8 @@
       }
     ],
     "authorContributionMap": {
-      "nattanyz": 162,
-      "-": 2
+      "nattanyz": 149,
+      "-": 15
     }
   },
   {
@@ -65399,182 +65399,182 @@
       {
         "lineNumber": 817,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "                    //@@author shawnpcunchew11"
       },
       {
         "lineNumber": 818,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                    Exam exam \u003d ExamRunner.getCurrentExam();"
       },
       {
         "lineNumber": 819,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                    boolean isEndOfDeck \u003d exam.upIndex();"
       },
       {
         "lineNumber": 820,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                    if (isEndOfDeck) {"
       },
       {
         "lineNumber": 821,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                        Consumers.doTask(\"STOP_TIMELINE\", true);"
       },
       {
         "lineNumber": 822,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                        if (ExamRunner.getCurrentExam() !\u003d null) {"
       },
       {
         "lineNumber": 823,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                            ExamRunner.terminateExam();"
       },
       {
         "lineNumber": 824,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                        }"
       },
       {
         "lineNumber": 825,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                    }"
       },
       {
         "lineNumber": 826,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "                    Pane newCard \u003d exam.getCardDisplayFront();"
       },
       {
         "lineNumber": 827,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                    Consumers.doTask(\"SWAP_CARD_DISPLAY\", newCard);"
       },
       {
         "lineNumber": 828,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                    Consumers.doTask(\"UPDATE_TEST_STATE\", exam.getCurrentCard());"
       },
       {
         "lineNumber": 829,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "                    return true;"
       },
       {
         "lineNumber": 830,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                    //@author"
       },
       {
         "lineNumber": 831,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "                }"
       },
       {
         "lineNumber": 832,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "    ),"
       },
       {
         "lineNumber": 833,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "    TEST_PREV("
       },
       {
         "lineNumber": 834,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "            \"^((?i)prev(ious)?)\\\\s*\","
       },
       {
         "lineNumber": 835,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "            new ResponseGroup[]{"
       },
       {
         "lineNumber": 836,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "                ResponseGroup.TEST,"
       },
       {
         "lineNumber": 837,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "                ResponseGroup.TEST_FBCARD,"
       },
       {
         "lineNumber": 838,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                ResponseGroup.TEST_FBCARD_BACK,"
       },
       {
         "lineNumber": 839,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "                ResponseGroup.TEST_JSJAVA,"
       },
       {
         "lineNumber": 840,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                ResponseGroup.TEST_MCQ,"
       },
       {
         "lineNumber": 841,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": "                ResponseGroup.TEST_MCQ_BACK},"
       },
       {
         "lineNumber": 842,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "                i -\u003e {"
       },
@@ -67078,13 +67078,13 @@
       }
     ],
     "authorContributionMap": {
-      "nattanyz": 5,
+      "nattanyz": 4,
       "AHaliq": 65,
-      "PhireHandy": 322,
-      "shawnpunchew11": 287,
+      "PhireHandy": 311,
+      "shawnpunchew11": 273,
       "timothyleong97": 92,
       "huiminlim": 283,
-      "-": 2
+      "-": 28
     }
   },
   {
@@ -91767,98 +91767,98 @@
       {
         "lineNumber": 152,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "    //@@author Timothy Leong"
       },
       {
         "lineNumber": 153,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": "    public ArrayList\u003cString\u003e getShuffledChoices() {"
       },
       {
         "lineNumber": 154,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": "        shuffleChoices();"
       },
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": "        return this.displayChoices;"
       },
       {
         "lineNumber": 156,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": "    }"
       },
       {
         "lineNumber": 157,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "    //@author"
       },
       {
         "lineNumber": 158,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "    /**"
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "     * Evaluates if user input answer is correct."
       },
       {
         "lineNumber": 161,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "     *"
       },
       {
         "lineNumber": 162,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "     * @param in String input provided by user."
       },
       {
         "lineNumber": 163,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "     * @return Boolean, if correct return true, else return false."
       },
       {
         "lineNumber": 164,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "     * @throws IndexNotFoundException Throw exception when input provided by user is not a valid choice."
       },
       {
         "lineNumber": 165,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "     */"
       },
@@ -93727,8 +93727,9 @@
     ],
     "authorContributionMap": {
       "AHaliq": 23,
-      "timothyleong97": 7,
-      "huiminlim": 401
+      "timothyleong97": 2,
+      "huiminlim": 392,
+      "-": 14
     }
   },
   {
