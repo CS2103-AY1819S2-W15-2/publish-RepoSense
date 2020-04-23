@@ -1,50 +1,26 @@
 {
   "repoSenseVersion": "0c9e261b17",
-  "reportGeneratedTime": "Wed Apr 22 13:22:35 2020 UTC",
-  "reportGenerationTime": " 31.41 second(s)",
-  "repos": [
+  "reportGeneratedTime": "Thu Apr 23 13:47:48 2020 UTC",
+  "reportGenerationTime": " 2 minute(s) 16.31 second(s)",
+  "repos": [],
+  "errorList": [
     {
-      "location": {
-        "location": "https://github.com/AY1920S1-CS2103-F09-1/main.git",
-        "repoName": "main",
-        "organization": "AY1920S1-CS2103-F09-1"
-      },
-      "branch": "master",
-      "displayName": "AY1920S1-CS2103-F09-1/main[master]",
-      "outputFolderName": "AY1920S1-CS2103-F09-1_main_master"
+      "repoName": "AY1920S1-CS2103-F09-4/main[master]",
+      "errorMessage": "Failed to clone from https://github.com/AY1920S1-CS2103-F09-4/main.git"
     },
     {
-      "location": {
-        "location": "https://github.com/AY1920S1-CS2103-F09-2/main.git",
-        "repoName": "main",
-        "organization": "AY1920S1-CS2103-F09-2"
-      },
-      "branch": "master",
-      "displayName": "AY1920S1-CS2103-F09-2/main[master]",
-      "outputFolderName": "AY1920S1-CS2103-F09-2_main_master"
+      "repoName": "AY1920S1-CS2103-F09-1/main[master]",
+      "errorMessage": "Failed to clone from https://github.com/AY1920S1-CS2103-F09-1/main.git"
     },
     {
-      "location": {
-        "location": "https://github.com/AY1920S1-CS2103-F09-3/main.git",
-        "repoName": "main",
-        "organization": "AY1920S1-CS2103-F09-3"
-      },
-      "branch": "master",
-      "displayName": "AY1920S1-CS2103-F09-3/main[master]",
-      "outputFolderName": "AY1920S1-CS2103-F09-3_main_master"
+      "repoName": "AY1920S1-CS2103-F09-2/main[master]",
+      "errorMessage": "Failed to clone from https://github.com/AY1920S1-CS2103-F09-2/main.git"
     },
     {
-      "location": {
-        "location": "https://github.com/AY1920S1-CS2103-F09-4/main.git",
-        "repoName": "main",
-        "organization": "AY1920S1-CS2103-F09-4"
-      },
-      "branch": "master",
-      "displayName": "AY1920S1-CS2103-F09-4/main[master]",
-      "outputFolderName": "AY1920S1-CS2103-F09-4_main_master"
+      "repoName": "AY1920S1-CS2103-F09-3/main[master]",
+      "errorMessage": "Failed to clone from https://github.com/AY1920S1-CS2103-F09-3/main.git"
     }
   ],
-  "errorList": [],
   "sinceDate": "2019-08-12",
   "untilDate": "2019-11-15",
   "isSinceDateProvided": true,
