@@ -3168,12 +3168,8 @@
             "messageTitle": "fixed merge issues and checkstyle issues",
             "messageBody": "",
             "fileTypesAndContributionMap": {
-              "other": {
-                "insertions": 7,
-                "deletions": 0
-              },
               "java": {
-                "insertions": 10,
+                "insertions": 17,
                 "deletions": 9
               }
             }
@@ -8628,7 +8624,7 @@
             "messageTitle": "Delete .\\src\\test\\java\\dream\\fcard\\util\\data\\Test.java",
             "messageBody": "",
             "fileTypesAndContributionMap": {
-              "other": {
+              "java": {
                 "insertions": 0,
                 "deletions": 7
               }
@@ -8639,7 +8635,7 @@
             "messageTitle": "Try remove ./src/,... file",
             "messageBody": "",
             "fileTypesAndContributionMap": {
-              "other": {
+              "java": {
                 "insertions": 0,
                 "deletions": 7
               }
@@ -8650,7 +8646,7 @@
             "messageTitle": "Delete .\\src\\test\\java\\dream\\fcard\\util\\data\\Test.java",
             "messageBody": "",
             "fileTypesAndContributionMap": {
-              "other": {
+              "java": {
                 "insertions": 0,
                 "deletions": 7
               }
@@ -8851,12 +8847,8 @@
             "messageTitle": "Revert \"GUI initial implementation\"",
             "messageBody": "",
             "fileTypesAndContributionMap": {
-              "other": {
-                "insertions": 7,
-                "deletions": 0
-              },
               "java": {
-                "insertions": 149,
+                "insertions": 156,
                 "deletions": 247
               }
             }
@@ -8866,7 +8858,7 @@
             "messageTitle": "Delete .\\src\\test\\java\\dream\\fcard\\util\\data\\Test.java",
             "messageBody": "",
             "fileTypesAndContributionMap": {
-              "other": {
+              "java": {
                 "insertions": 0,
                 "deletions": 7
               }
