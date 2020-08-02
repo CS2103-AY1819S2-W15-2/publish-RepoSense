@@ -2,8 +2,6 @@
   "authorDailyContributionsMap": {
     "ChrisKheng": [
       {
-        "insertions": 2,
-        "deletions": 2,
         "date": "2019-09-06",
         "commitResults": [
           {
@@ -42,8 +40,6 @@
         ]
       },
       {
-        "insertions": 2,
-        "deletions": 2,
         "date": "2019-09-12",
         "commitResults": [
           {
@@ -71,8 +67,6 @@
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
         "date": "2019-09-15",
         "commitResults": [
           {
@@ -89,8 +83,6 @@
         ]
       },
       {
-        "insertions": 393,
-        "deletions": 154,
         "date": "2019-10-01",
         "commitResults": [
           {
@@ -129,8 +121,6 @@
         ]
       },
       {
-        "insertions": 260,
-        "deletions": 0,
         "date": "2019-10-10",
         "commitResults": [
           {
@@ -147,8 +137,6 @@
         ]
       },
       {
-        "insertions": 317,
-        "deletions": 98,
         "date": "2019-10-14",
         "commitResults": [
           {
@@ -165,8 +153,6 @@
         ]
       },
       {
-        "insertions": 1,
-        "deletions": 1,
         "date": "2019-10-15",
         "commitResults": [
           {
@@ -183,8 +169,6 @@
         ]
       },
       {
-        "insertions": 569,
-        "deletions": 122,
         "date": "2019-10-16",
         "commitResults": [
           {
@@ -212,8 +196,6 @@
         ]
       },
       {
-        "insertions": 168,
-        "deletions": 67,
         "date": "2019-10-21",
         "commitResults": [
           {
@@ -230,8 +212,6 @@
         ]
       },
       {
-        "insertions": 105,
-        "deletions": 172,
         "date": "2019-10-24",
         "commitResults": [
           {
@@ -293,8 +273,6 @@
         ]
       },
       {
-        "insertions": 1725,
-        "deletions": 451,
         "date": "2019-10-31",
         "commitResults": [
           {
@@ -381,8 +359,6 @@
         ]
       },
       {
-        "insertions": 26,
-        "deletions": 8,
         "date": "2019-11-01",
         "commitResults": [
           {
@@ -399,8 +375,6 @@
         ]
       },
       {
-        "insertions": 135,
-        "deletions": 26,
         "date": "2019-11-04",
         "commitResults": [
           {
@@ -417,8 +391,6 @@
         ]
       },
       {
-        "insertions": 535,
-        "deletions": 448,
         "date": "2019-11-05",
         "commitResults": [
           {
@@ -435,8 +407,6 @@
         ]
       },
       {
-        "insertions": 249,
-        "deletions": 86,
         "date": "2019-11-07",
         "commitResults": [
           {
@@ -468,8 +438,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
         "date": "2019-11-08",
         "commitResults": [
           {
@@ -486,8 +454,6 @@
         ]
       },
       {
-        "insertions": 42,
-        "deletions": 29,
         "date": "2019-11-09",
         "commitResults": [
           {
@@ -515,8 +481,6 @@
         ]
       },
       {
-        "insertions": 461,
-        "deletions": 96,
         "date": "2019-11-10",
         "commitResults": [
           {
@@ -552,8 +516,6 @@
         ]
       },
       {
-        "insertions": 498,
-        "deletions": 411,
         "date": "2019-11-11",
         "commitResults": [
           {
@@ -630,8 +592,6 @@
         ]
       },
       {
-        "insertions": 7,
-        "deletions": 3,
         "date": "2019-11-12",
         "commitResults": [
           {
@@ -650,8 +610,6 @@
     ],
     "mrchensheng21": [
       {
-        "insertions": 30,
-        "deletions": 0,
         "date": "2019-09-30",
         "commitResults": [
           {
@@ -668,8 +626,6 @@
         ]
       },
       {
-        "insertions": 17,
-        "deletions": 0,
         "date": "2019-10-01",
         "commitResults": [
           {
@@ -697,8 +653,6 @@
         ]
       },
       {
-        "insertions": 346,
-        "deletions": 249,
         "date": "2019-10-03",
         "commitResults": [
           {
@@ -872,8 +826,6 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
         "date": "2019-10-09",
         "commitResults": [
           {
@@ -885,8 +837,6 @@
         ]
       },
       {
-        "insertions": 180,
-        "deletions": 74,
         "date": "2019-10-10",
         "commitResults": [
           {
@@ -958,8 +908,6 @@
         ]
       },
       {
-        "insertions": 827,
-        "deletions": 1,
         "date": "2019-10-14",
         "commitResults": [
           {
@@ -980,8 +928,6 @@
         ]
       },
       {
-        "insertions": 136,
-        "deletions": 24,
         "date": "2019-10-17",
         "commitResults": [
           {
@@ -1006,8 +952,6 @@
         ]
       },
       {
-        "insertions": 136,
-        "deletions": 35,
         "date": "2019-10-23",
         "commitResults": [
           {
@@ -1032,8 +976,6 @@
         ]
       },
       {
-        "insertions": 50,
-        "deletions": 17,
         "date": "2019-10-24",
         "commitResults": [
           {
@@ -1054,8 +996,6 @@
         ]
       },
       {
-        "insertions": 159,
-        "deletions": 77,
         "date": "2019-10-31",
         "commitResults": [
           {
@@ -1084,8 +1024,6 @@
         ]
       },
       {
-        "insertions": 146,
-        "deletions": 72,
         "date": "2019-11-01",
         "commitResults": [
           {
@@ -1114,8 +1052,6 @@
         ]
       },
       {
-        "insertions": 228,
-        "deletions": 396,
         "date": "2019-11-05",
         "commitResults": [
           {
@@ -1140,8 +1076,6 @@
         ]
       },
       {
-        "insertions": 263,
-        "deletions": 29,
         "date": "2019-11-06",
         "commitResults": [
           {
@@ -1158,8 +1092,6 @@
         ]
       },
       {
-        "insertions": 395,
-        "deletions": 155,
         "date": "2019-11-07",
         "commitResults": [
           {
@@ -1207,8 +1139,6 @@
         ]
       },
       {
-        "insertions": 169,
-        "deletions": 42,
         "date": "2019-11-09",
         "commitResults": [
           {
@@ -1237,8 +1167,6 @@
         ]
       },
       {
-        "insertions": 225,
-        "deletions": 214,
         "date": "2019-11-11",
         "commitResults": [
           {
@@ -1288,8 +1216,6 @@
     ],
     "mirozo": [
       {
-        "insertions": 126,
-        "deletions": 16,
         "date": "2019-10-02",
         "commitResults": [
           {
@@ -1306,8 +1232,6 @@
         ]
       },
       {
-        "insertions": 27,
-        "deletions": 0,
         "date": "2019-10-03",
         "commitResults": [
           {
@@ -1324,8 +1248,6 @@
         ]
       },
       {
-        "insertions": 137,
-        "deletions": 1,
         "date": "2019-10-10",
         "commitResults": [
           {
@@ -1346,8 +1268,6 @@
         ]
       },
       {
-        "insertions": 193,
-        "deletions": 83,
         "date": "2019-10-17",
         "commitResults": [
           {
@@ -1368,8 +1288,6 @@
         ]
       },
       {
-        "insertions": 73,
-        "deletions": 19,
         "date": "2019-10-23",
         "commitResults": [
           {
@@ -1386,8 +1304,6 @@
         ]
       },
       {
-        "insertions": 243,
-        "deletions": 5,
         "date": "2019-10-24",
         "commitResults": [
           {
@@ -1419,8 +1335,6 @@
         ]
       },
       {
-        "insertions": 552,
-        "deletions": 92,
         "date": "2019-10-31",
         "commitResults": [
           {
@@ -1445,8 +1359,6 @@
         ]
       },
       {
-        "insertions": 63,
-        "deletions": 6,
         "date": "2019-11-01",
         "commitResults": [
           {
@@ -1467,8 +1379,6 @@
         ]
       },
       {
-        "insertions": 165,
-        "deletions": 43,
         "date": "2019-11-03",
         "commitResults": [
           {
@@ -1489,8 +1399,6 @@
         ]
       },
       {
-        "insertions": 687,
-        "deletions": 177,
         "date": "2019-11-05",
         "commitResults": [
           {
@@ -1515,8 +1423,6 @@
         ]
       },
       {
-        "insertions": 274,
-        "deletions": 8,
         "date": "2019-11-06",
         "commitResults": [
           {
@@ -1537,8 +1443,6 @@
         ]
       },
       {
-        "insertions": 166,
-        "deletions": 46,
         "date": "2019-11-07",
         "commitResults": [
           {
@@ -1563,8 +1467,6 @@
         ]
       },
       {
-        "insertions": 90,
-        "deletions": 50,
         "date": "2019-11-09",
         "commitResults": [
           {
@@ -1585,8 +1487,6 @@
         ]
       },
       {
-        "insertions": 488,
-        "deletions": 118,
         "date": "2019-11-11",
         "commitResults": [
           {
@@ -1643,8 +1543,6 @@
     ],
     "dcshzj": [
       {
-        "insertions": 7,
-        "deletions": 13,
         "date": "2019-09-28",
         "commitResults": [
           {
@@ -1661,8 +1559,6 @@
         ]
       },
       {
-        "insertions": 26,
-        "deletions": 7,
         "date": "2019-10-02",
         "commitResults": [
           {
@@ -1679,8 +1575,6 @@
         ]
       },
       {
-        "insertions": 20,
-        "deletions": 0,
         "date": "2019-10-03",
         "commitResults": [
           {
@@ -1697,8 +1591,6 @@
         ]
       },
       {
-        "insertions": 55,
-        "deletions": 0,
         "date": "2019-10-10",
         "commitResults": [
           {
@@ -1715,8 +1607,6 @@
         ]
       },
       {
-        "insertions": 201,
-        "deletions": 8,
         "date": "2019-10-17",
         "commitResults": [
           {
@@ -1736,8 +1626,6 @@
         ]
       },
       {
-        "insertions": 99,
-        "deletions": 33,
         "date": "2019-10-19",
         "commitResults": [
           {
@@ -1754,8 +1642,6 @@
         ]
       },
       {
-        "insertions": 139,
-        "deletions": 0,
         "date": "2019-10-24",
         "commitResults": [
           {
@@ -1776,8 +1662,6 @@
         ]
       },
       {
-        "insertions": 1690,
-        "deletions": 1017,
         "date": "2019-10-28",
         "commitResults": [
           {
@@ -1794,8 +1678,6 @@
         ]
       },
       {
-        "insertions": 26,
-        "deletions": 31,
         "date": "2019-10-29",
         "commitResults": [
           {
@@ -1812,8 +1694,6 @@
         ]
       },
       {
-        "insertions": 29,
-        "deletions": 22,
         "date": "2019-10-31",
         "commitResults": [
           {
@@ -1845,8 +1725,6 @@
         ]
       },
       {
-        "insertions": 1488,
-        "deletions": 1357,
         "date": "2019-11-01",
         "commitResults": [
           {
@@ -1904,8 +1782,6 @@
         ]
       },
       {
-        "insertions": 192,
-        "deletions": 69,
         "date": "2019-11-03",
         "commitResults": [
           {
@@ -1926,8 +1802,6 @@
         ]
       },
       {
-        "insertions": 473,
-        "deletions": 954,
         "date": "2019-11-07",
         "commitResults": [
           {
@@ -1985,8 +1859,6 @@
         ]
       },
       {
-        "insertions": 1027,
-        "deletions": 25,
         "date": "2019-11-08",
         "commitResults": [
           {
@@ -2018,8 +1890,6 @@
         ]
       },
       {
-        "insertions": 243,
-        "deletions": 6,
         "date": "2019-11-09",
         "commitResults": [
           {
@@ -2036,8 +1906,6 @@
         ]
       },
       {
-        "insertions": 924,
-        "deletions": 162,
         "date": "2019-11-10",
         "commitResults": [
           {
@@ -2069,8 +1937,6 @@
         ]
       },
       {
-        "insertions": 280,
-        "deletions": 64,
         "date": "2019-11-11",
         "commitResults": [
           {
@@ -2140,8 +2006,6 @@
     ],
     "KendrickAng": [
       {
-        "insertions": 71,
-        "deletions": 1,
         "date": "2019-10-01",
         "commitResults": [
           {
@@ -2158,8 +2022,6 @@
         ]
       },
       {
-        "insertions": 48,
-        "deletions": 0,
         "date": "2019-10-10",
         "commitResults": [
           {
@@ -2176,8 +2038,6 @@
         ]
       },
       {
-        "insertions": 342,
-        "deletions": 15,
         "date": "2019-10-13",
         "commitResults": [
           {
@@ -2194,8 +2054,6 @@
         ]
       },
       {
-        "insertions": 1651,
-        "deletions": 372,
         "date": "2019-10-17",
         "commitResults": [
           {
@@ -2224,8 +2082,6 @@
         ]
       },
       {
-        "insertions": 226,
-        "deletions": 2,
         "date": "2019-10-24",
         "commitResults": [
           {
@@ -2253,8 +2109,6 @@
         ]
       },
       {
-        "insertions": 343,
-        "deletions": 573,
         "date": "2019-10-26",
         "commitResults": [
           {
@@ -2283,8 +2137,6 @@
         ]
       },
       {
-        "insertions": 3476,
-        "deletions": 1813,
         "date": "2019-10-31",
         "commitResults": [
           {
@@ -2320,8 +2172,6 @@
         ]
       },
       {
-        "insertions": 47,
-        "deletions": 8,
         "date": "2019-11-01",
         "commitResults": [
           {
@@ -2342,8 +2192,6 @@
         ]
       },
       {
-        "insertions": 1217,
-        "deletions": 236,
         "date": "2019-11-03",
         "commitResults": [
           {
@@ -2437,8 +2285,6 @@
         ]
       },
       {
-        "insertions": 236,
-        "deletions": 31,
         "date": "2019-11-04",
         "commitResults": [
           {
@@ -2455,8 +2301,6 @@
         ]
       },
       {
-        "insertions": 1452,
-        "deletions": 395,
         "date": "2019-11-05",
         "commitResults": [
           {
@@ -2583,8 +2427,6 @@
         ]
       },
       {
-        "insertions": 939,
-        "deletions": 327,
         "date": "2019-11-06",
         "commitResults": [
           {
@@ -2716,8 +2558,6 @@
         ]
       },
       {
-        "insertions": 235,
-        "deletions": 110,
         "date": "2019-11-07",
         "commitResults": [
           {
@@ -2815,8 +2655,6 @@
         ]
       },
       {
-        "insertions": 44,
-        "deletions": 5,
         "date": "2019-11-08",
         "commitResults": [
           {
@@ -2844,8 +2682,6 @@
         ]
       },
       {
-        "insertions": 782,
-        "deletions": 265,
         "date": "2019-11-09",
         "commitResults": [
           {
@@ -2899,8 +2735,6 @@
         ]
       },
       {
-        "insertions": 1685,
-        "deletions": 492,
         "date": "2019-11-10",
         "commitResults": [
           {
@@ -3080,8 +2914,6 @@
         ]
       },
       {
-        "insertions": 735,
-        "deletions": 669,
         "date": "2019-11-11",
         "commitResults": [
           {
@@ -3262,13 +3094,6 @@
         ]
       }
     ]
-  },
-  "authorFinalContributionMap": {
-    "ChrisKheng": 3586,
-    "mrchensheng21": 1303,
-    "mirozo": 2396,
-    "dcshzj": 5535,
-    "KendrickAng": 6985
   },
   "authorFileTypeContributionMap": {
     "ChrisKheng": {
