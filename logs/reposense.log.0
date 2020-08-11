@@ -1,76 +1,76 @@
-Aug 10, 2020 2:26:37 PM reposense.report.RepoCloner spawnCloneProcess
+Aug 11, 2020 2:27:27 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY1920S1-CS2103-F09-4/main.git...
-Aug 10, 2020 2:26:37 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:27 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY1920S1-CS2103-F09-4/main.git to complete...
-Aug 10, 2020 2:26:39 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:29 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY1920S1-CS2103-F09-4/main.git completed!
-Aug 10, 2020 2:26:39 PM reposense.report.RepoCloner spawnCloneProcess
+Aug 11, 2020 2:27:29 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY1920S1-CS2103-F09-1/main.git...
-Aug 10, 2020 2:26:39 PM reposense.report.ReportGenerator analyzeRepos
+Aug 11, 2020 2:27:29 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/4] Analyzing https://github.com/AY1920S1-CS2103-F09-4/main.git (master)...
-Aug 10, 2020 2:26:39 PM reposense.report.ReportGenerator updateRepoConfig
+Aug 11, 2020 2:27:29 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY1920S1-CS2103-F09-4/main.git (master) does not contain a standalone config file.
-Aug 10, 2020 2:26:39 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+Aug 11, 2020 2:27:29 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY1920S1-CS2103-F09-4/main.git (master)...
-Aug 10, 2020 2:26:39 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Aug 11, 2020 2:27:30 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY1920S1-CS2103-F09-4/main.git (master)...
-Aug 10, 2020 2:26:40 PM reposense.authorship.FileInfoExtractor extractFileInfos
+Aug 11, 2020 2:27:30 PM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/AY1920S1-CS2103-F09-4/main.git (master)...
-Aug 10, 2020 2:26:48 PM reposense.report.ReportGenerator analyzeRepo
+Aug 11, 2020 2:27:38 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY1920S1-CS2103-F09-4/main.git (master) completed!
-Aug 10, 2020 2:26:48 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:38 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY1920S1-CS2103-F09-1/main.git to complete...
-Aug 10, 2020 2:26:48 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:38 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY1920S1-CS2103-F09-1/main.git completed!
-Aug 10, 2020 2:26:48 PM reposense.report.RepoCloner spawnCloneProcess
+Aug 11, 2020 2:27:38 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY1920S1-CS2103-F09-2/main.git...
-Aug 10, 2020 2:26:48 PM reposense.report.ReportGenerator analyzeRepos
+Aug 11, 2020 2:27:38 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [2/4] Analyzing https://github.com/AY1920S1-CS2103-F09-1/main.git (master)...
-Aug 10, 2020 2:26:48 PM reposense.report.ReportGenerator updateRepoConfig
+Aug 11, 2020 2:27:39 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY1920S1-CS2103-F09-1/main.git (master) does not contain a standalone config file.
-Aug 10, 2020 2:26:48 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+Aug 11, 2020 2:27:39 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY1920S1-CS2103-F09-1/main.git (master)...
-Aug 10, 2020 2:26:49 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Aug 11, 2020 2:27:39 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY1920S1-CS2103-F09-1/main.git (master)...
-Aug 10, 2020 2:26:49 PM reposense.authorship.FileInfoExtractor extractFileInfos
+Aug 11, 2020 2:27:39 PM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/AY1920S1-CS2103-F09-1/main.git (master)...
-Aug 10, 2020 2:26:56 PM reposense.report.ReportGenerator analyzeRepo
+Aug 11, 2020 2:27:46 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY1920S1-CS2103-F09-1/main.git (master) completed!
-Aug 10, 2020 2:26:56 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:46 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY1920S1-CS2103-F09-2/main.git to complete...
-Aug 10, 2020 2:26:56 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:46 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY1920S1-CS2103-F09-2/main.git completed!
-Aug 10, 2020 2:26:56 PM reposense.report.RepoCloner spawnCloneProcess
+Aug 11, 2020 2:27:46 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY1920S1-CS2103-F09-3/main.git...
-Aug 10, 2020 2:26:56 PM reposense.report.ReportGenerator analyzeRepos
+Aug 11, 2020 2:27:46 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [3/4] Analyzing https://github.com/AY1920S1-CS2103-F09-2/main.git (master)...
-Aug 10, 2020 2:26:56 PM reposense.report.ReportGenerator updateRepoConfig
+Aug 11, 2020 2:27:47 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY1920S1-CS2103-F09-2/main.git (master) does not contain a standalone config file.
-Aug 10, 2020 2:26:56 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+Aug 11, 2020 2:27:47 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY1920S1-CS2103-F09-2/main.git (master)...
-Aug 10, 2020 2:26:57 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Aug 11, 2020 2:27:47 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY1920S1-CS2103-F09-2/main.git (master)...
-Aug 10, 2020 2:26:57 PM reposense.authorship.FileInfoExtractor extractFileInfos
+Aug 11, 2020 2:27:47 PM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/AY1920S1-CS2103-F09-2/main.git (master)...
-Aug 10, 2020 2:27:00 PM reposense.report.ReportGenerator analyzeRepo
+Aug 11, 2020 2:27:51 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY1920S1-CS2103-F09-2/main.git (master) completed!
-Aug 10, 2020 2:27:00 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:51 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY1920S1-CS2103-F09-3/main.git to complete...
-Aug 10, 2020 2:27:00 PM reposense.report.RepoCloner waitForCloneProcess
+Aug 11, 2020 2:27:51 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY1920S1-CS2103-F09-3/main.git completed!
-Aug 10, 2020 2:27:00 PM reposense.report.ReportGenerator analyzeRepos
+Aug 11, 2020 2:27:51 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [4/4] Analyzing https://github.com/AY1920S1-CS2103-F09-3/main.git (master)...
-Aug 10, 2020 2:27:01 PM reposense.report.ReportGenerator updateRepoConfig
+Aug 11, 2020 2:27:51 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY1920S1-CS2103-F09-3/main.git (master) does not contain a standalone config file.
-Aug 10, 2020 2:27:01 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+Aug 11, 2020 2:27:51 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY1920S1-CS2103-F09-3/main.git (master)...
-Aug 10, 2020 2:27:01 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Aug 11, 2020 2:27:51 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY1920S1-CS2103-F09-3/main.git (master)...
-Aug 10, 2020 2:27:01 PM reposense.authorship.FileInfoExtractor extractFileInfos
+Aug 11, 2020 2:27:51 PM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/AY1920S1-CS2103-F09-3/main.git (master)...
-Aug 10, 2020 2:27:08 PM reposense.report.ReportGenerator analyzeRepo
+Aug 11, 2020 2:27:59 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY1920S1-CS2103-F09-3/main.git (master) completed!
-Aug 10, 2020 2:27:08 PM reposense.report.ReportGenerator generateReposReport
+Aug 11, 2020 2:27:59 PM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/travis/build/CS2103-AY1819S2-W15-2/publish-RepoSense/reposense-report
-Aug 10, 2020 2:27:09 PM reposense.RepoSense main
+Aug 11, 2020 2:27:59 PM reposense.RepoSense main
 INFO: Elapsed processing time: 32.06 second(s)
